@@ -1,0 +1,4962 @@
+[
+    {
+        "Tahun":2004,
+        "Kecamatan":"Kencong",
+        "Luas Panen Cabe Rawit":26.0,
+        "Produktivitas Cabe Rawit":44.0,
+        "Produksi Cabe Rawit":1144.0,
+        "Curah Hujan":90.4
+    },
+    {
+        "Tahun":2004,
+        "Kecamatan":"Gumukmas",
+        "Luas Panen Cabe Rawit":607.0,
+        "Produktivitas Cabe Rawit":36.94,
+        "Produksi Cabe Rawit":224240.0,
+        "Curah Hujan":105.84
+    },
+    {
+        "Tahun":2004,
+        "Kecamatan":"Puger",
+        "Luas Panen Cabe Rawit":9.0,
+        "Produktivitas Cabe Rawit":25.56,
+        "Produksi Cabe Rawit":230.0,
+        "Curah Hujan":138.7333333
+    },
+    {
+        "Tahun":2004,
+        "Kecamatan":"Wuluhan",
+        "Luas Panen Cabe Rawit":182.0,
+        "Produktivitas Cabe Rawit":4.45,
+        "Produksi Cabe Rawit":810.0,
+        "Curah Hujan":115.4166667
+    },
+    {
+        "Tahun":2004,
+        "Kecamatan":"Ambulu",
+        "Luas Panen Cabe Rawit":72.0,
+        "Produktivitas Cabe Rawit":264.06,
+        "Produksi Cabe Rawit":19012.0,
+        "Curah Hujan":113.9
+    },
+    {
+        "Tahun":2004,
+        "Kecamatan":"Tempurejo",
+        "Luas Panen Cabe Rawit":40.0,
+        "Produktivitas Cabe Rawit":4.75,
+        "Produksi Cabe Rawit":190.0,
+        "Curah Hujan":133.95
+    },
+    {
+        "Tahun":2004,
+        "Kecamatan":"Silo",
+        "Luas Panen Cabe Rawit":7.0,
+        "Produktivitas Cabe Rawit":4.29,
+        "Produksi Cabe Rawit":30.0,
+        "Curah Hujan":142.6
+    },
+    {
+        "Tahun":2004,
+        "Kecamatan":"Mayang",
+        "Luas Panen Cabe Rawit":25.0,
+        "Produktivitas Cabe Rawit":30.2,
+        "Produksi Cabe Rawit":755.0,
+        "Curah Hujan":140.0
+    },
+    {
+        "Tahun":2004,
+        "Kecamatan":"Mumbulsari",
+        "Luas Panen Cabe Rawit":67.0,
+        "Produktivitas Cabe Rawit":18.03,
+        "Produksi Cabe Rawit":1208.0,
+        "Curah Hujan":153.2
+    },
+    {
+        "Tahun":2004,
+        "Kecamatan":"Jenggawah",
+        "Luas Panen Cabe Rawit":31.0,
+        "Produktivitas Cabe Rawit":46.45,
+        "Produksi Cabe Rawit":1440.0,
+        "Curah Hujan":169.05
+    },
+    {
+        "Tahun":2004,
+        "Kecamatan":"Ajung",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":140.3
+    },
+    {
+        "Tahun":2004,
+        "Kecamatan":"Rambipuji",
+        "Luas Panen Cabe Rawit":7.0,
+        "Produktivitas Cabe Rawit":47.45,
+        "Produksi Cabe Rawit":333.0,
+        "Curah Hujan":159.0
+    },
+    {
+        "Tahun":2004,
+        "Kecamatan":"Balung",
+        "Luas Panen Cabe Rawit":16.0,
+        "Produktivitas Cabe Rawit":13.19,
+        "Produksi Cabe Rawit":211.0,
+        "Curah Hujan":102.73
+    },
+    {
+        "Tahun":2004,
+        "Kecamatan":"Umbulsari",
+        "Luas Panen Cabe Rawit":6.0,
+        "Produktivitas Cabe Rawit":37.5,
+        "Produksi Cabe Rawit":225.0,
+        "Curah Hujan":125.9
+    },
+    {
+        "Tahun":2004,
+        "Kecamatan":"Semboro",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":159.0
+    },
+    {
+        "Tahun":2004,
+        "Kecamatan":"Jombang",
+        "Luas Panen Cabe Rawit":5.0,
+        "Produktivitas Cabe Rawit":51.2,
+        "Produksi Cabe Rawit":256.0,
+        "Curah Hujan":139.3
+    },
+    {
+        "Tahun":2004,
+        "Kecamatan":"Sumberbaru",
+        "Luas Panen Cabe Rawit":16.0,
+        "Produktivitas Cabe Rawit":8.31,
+        "Produksi Cabe Rawit":133.0,
+        "Curah Hujan":175.1
+    },
+    {
+        "Tahun":2004,
+        "Kecamatan":"Tanggul",
+        "Luas Panen Cabe Rawit":17.0,
+        "Produktivitas Cabe Rawit":38.29,
+        "Produksi Cabe Rawit":651.0,
+        "Curah Hujan":167.3
+    },
+    {
+        "Tahun":2004,
+        "Kecamatan":"Bangsalsari",
+        "Luas Panen Cabe Rawit":12.0,
+        "Produktivitas Cabe Rawit":30.08,
+        "Produksi Cabe Rawit":361.0,
+        "Curah Hujan":178.4
+    },
+    {
+        "Tahun":2004,
+        "Kecamatan":"Panti",
+        "Luas Panen Cabe Rawit":17.0,
+        "Produktivitas Cabe Rawit":43.82,
+        "Produksi Cabe Rawit":745.0,
+        "Curah Hujan":211.4
+    },
+    {
+        "Tahun":2004,
+        "Kecamatan":"Sukorambi",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":null
+    },
+    {
+        "Tahun":2004,
+        "Kecamatan":"Arjasa",
+        "Luas Panen Cabe Rawit":45.0,
+        "Produktivitas Cabe Rawit":47.91,
+        "Produksi Cabe Rawit":2156.0,
+        "Curah Hujan":188.8
+    },
+    {
+        "Tahun":2004,
+        "Kecamatan":"Pakusari",
+        "Luas Panen Cabe Rawit":33.0,
+        "Produktivitas Cabe Rawit":2.76,
+        "Produksi Cabe Rawit":91.0,
+        "Curah Hujan":189.4
+    },
+    {
+        "Tahun":2004,
+        "Kecamatan":"Kalisat",
+        "Luas Panen Cabe Rawit":168.0,
+        "Produktivitas Cabe Rawit":69.05,
+        "Produksi Cabe Rawit":11601.0,
+        "Curah Hujan":182.6
+    },
+    {
+        "Tahun":2004,
+        "Kecamatan":"Ledokombo",
+        "Luas Panen Cabe Rawit":377.0,
+        "Produktivitas Cabe Rawit":6.23,
+        "Produksi Cabe Rawit":2350.0,
+        "Curah Hujan":138.4
+    },
+    {
+        "Tahun":2004,
+        "Kecamatan":"Sumberjambe",
+        "Luas Panen Cabe Rawit":13.0,
+        "Produktivitas Cabe Rawit":15.77,
+        "Produksi Cabe Rawit":205.0,
+        "Curah Hujan":214.1
+    },
+    {
+        "Tahun":2004,
+        "Kecamatan":"Sukowono",
+        "Luas Panen Cabe Rawit":27.0,
+        "Produktivitas Cabe Rawit":56.3,
+        "Produksi Cabe Rawit":1520.0,
+        "Curah Hujan":165.3
+    },
+    {
+        "Tahun":2004,
+        "Kecamatan":"Jelbuk",
+        "Luas Panen Cabe Rawit":111.0,
+        "Produktivitas Cabe Rawit":3.25,
+        "Produksi Cabe Rawit":361.0,
+        "Curah Hujan":null
+    },
+    {
+        "Tahun":2004,
+        "Kecamatan":"Kaliwates",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":127.6
+    },
+    {
+        "Tahun":2004,
+        "Kecamatan":"Sumbersari",
+        "Luas Panen Cabe Rawit":5.0,
+        "Produktivitas Cabe Rawit":43.4,
+        "Produksi Cabe Rawit":217.0,
+        "Curah Hujan":141.3
+    },
+    {
+        "Tahun":2004,
+        "Kecamatan":"Patrang",
+        "Luas Panen Cabe Rawit":9.0,
+        "Produktivitas Cabe Rawit":3.0,
+        "Produksi Cabe Rawit":27.0,
+        "Curah Hujan":229.6
+    },
+    {
+        "Tahun":2005,
+        "Kecamatan":"Kencong",
+        "Luas Panen Cabe Rawit":28.0,
+        "Produktivitas Cabe Rawit":16.61,
+        "Produksi Cabe Rawit":465.0,
+        "Curah Hujan":110.4
+    },
+    {
+        "Tahun":2005,
+        "Kecamatan":"Gumukmas",
+        "Luas Panen Cabe Rawit":897.0,
+        "Produktivitas Cabe Rawit":8.28,
+        "Produksi Cabe Rawit":7430.0,
+        "Curah Hujan":116.5
+    },
+    {
+        "Tahun":2005,
+        "Kecamatan":"Puger",
+        "Luas Panen Cabe Rawit":3.0,
+        "Produktivitas Cabe Rawit":5.0,
+        "Produksi Cabe Rawit":15.0,
+        "Curah Hujan":104.6
+    },
+    {
+        "Tahun":2005,
+        "Kecamatan":"Wuluhan",
+        "Luas Panen Cabe Rawit":119.0,
+        "Produktivitas Cabe Rawit":6.29,
+        "Produksi Cabe Rawit":749.0,
+        "Curah Hujan":100.7
+    },
+    {
+        "Tahun":2005,
+        "Kecamatan":"Ambulu",
+        "Luas Panen Cabe Rawit":65.0,
+        "Produktivitas Cabe Rawit":21.08,
+        "Produksi Cabe Rawit":1370.0,
+        "Curah Hujan":113.1
+    },
+    {
+        "Tahun":2005,
+        "Kecamatan":"Tempurejo",
+        "Luas Panen Cabe Rawit":97.0,
+        "Produktivitas Cabe Rawit":13.33,
+        "Produksi Cabe Rawit":1293.0,
+        "Curah Hujan":131.0
+    },
+    {
+        "Tahun":2005,
+        "Kecamatan":"Silo",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":145.4
+    },
+    {
+        "Tahun":2005,
+        "Kecamatan":"Mayang",
+        "Luas Panen Cabe Rawit":21.0,
+        "Produktivitas Cabe Rawit":25.0,
+        "Produksi Cabe Rawit":525.0,
+        "Curah Hujan":203.5
+    },
+    {
+        "Tahun":2005,
+        "Kecamatan":"Mumbulsari",
+        "Luas Panen Cabe Rawit":12.0,
+        "Produktivitas Cabe Rawit":12.25,
+        "Produksi Cabe Rawit":147.0,
+        "Curah Hujan":120.8
+    },
+    {
+        "Tahun":2005,
+        "Kecamatan":"Jenggawah",
+        "Luas Panen Cabe Rawit":24.0,
+        "Produktivitas Cabe Rawit":59.42,
+        "Produksi Cabe Rawit":1426.0,
+        "Curah Hujan":144.5
+    },
+    {
+        "Tahun":2005,
+        "Kecamatan":"Ajung",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":139.5
+    },
+    {
+        "Tahun":2005,
+        "Kecamatan":"Rambipuji",
+        "Luas Panen Cabe Rawit":5.0,
+        "Produktivitas Cabe Rawit":8.0,
+        "Produksi Cabe Rawit":40.0,
+        "Curah Hujan":179.3
+    },
+    {
+        "Tahun":2005,
+        "Kecamatan":"Balung",
+        "Luas Panen Cabe Rawit":9.0,
+        "Produktivitas Cabe Rawit":23.78,
+        "Produksi Cabe Rawit":214.0,
+        "Curah Hujan":125.5
+    },
+    {
+        "Tahun":2005,
+        "Kecamatan":"Umbulsari",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":148.3
+    },
+    {
+        "Tahun":2005,
+        "Kecamatan":"Semboro",
+        "Luas Panen Cabe Rawit":1.0,
+        "Produktivitas Cabe Rawit":5.0,
+        "Produksi Cabe Rawit":5.0,
+        "Curah Hujan":161.6
+    },
+    {
+        "Tahun":2005,
+        "Kecamatan":"Jombang",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":152.1
+    },
+    {
+        "Tahun":2005,
+        "Kecamatan":"Sumberbaru",
+        "Luas Panen Cabe Rawit":3.0,
+        "Produktivitas Cabe Rawit":10.33,
+        "Produksi Cabe Rawit":31.0,
+        "Curah Hujan":247.1
+    },
+    {
+        "Tahun":2005,
+        "Kecamatan":"Tanggul",
+        "Luas Panen Cabe Rawit":21.0,
+        "Produktivitas Cabe Rawit":5.05,
+        "Produksi Cabe Rawit":106.0,
+        "Curah Hujan":212.0
+    },
+    {
+        "Tahun":2005,
+        "Kecamatan":"Bangsalsari",
+        "Luas Panen Cabe Rawit":6.0,
+        "Produktivitas Cabe Rawit":3.0,
+        "Produksi Cabe Rawit":18.0,
+        "Curah Hujan":158.5
+    },
+    {
+        "Tahun":2005,
+        "Kecamatan":"Panti",
+        "Luas Panen Cabe Rawit":15.0,
+        "Produktivitas Cabe Rawit":5.33,
+        "Produksi Cabe Rawit":80.0,
+        "Curah Hujan":169.1
+    },
+    {
+        "Tahun":2005,
+        "Kecamatan":"Sukorambi",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":null
+    },
+    {
+        "Tahun":2005,
+        "Kecamatan":"Arjasa",
+        "Luas Panen Cabe Rawit":36.0,
+        "Produktivitas Cabe Rawit":37.5,
+        "Produksi Cabe Rawit":1350.0,
+        "Curah Hujan":149.9
+    },
+    {
+        "Tahun":2005,
+        "Kecamatan":"Pakusari",
+        "Luas Panen Cabe Rawit":6.0,
+        "Produktivitas Cabe Rawit":49.0,
+        "Produksi Cabe Rawit":294.0,
+        "Curah Hujan":182.4
+    },
+    {
+        "Tahun":2005,
+        "Kecamatan":"Kalisat",
+        "Luas Panen Cabe Rawit":263.0,
+        "Produktivitas Cabe Rawit":3.14,
+        "Produksi Cabe Rawit":826.0,
+        "Curah Hujan":161.9
+    },
+    {
+        "Tahun":2005,
+        "Kecamatan":"Ledokombo",
+        "Luas Panen Cabe Rawit":228.0,
+        "Produktivitas Cabe Rawit":0.73,
+        "Produksi Cabe Rawit":167.0,
+        "Curah Hujan":148.4
+    },
+    {
+        "Tahun":2005,
+        "Kecamatan":"Sumberjambe",
+        "Luas Panen Cabe Rawit":10.0,
+        "Produktivitas Cabe Rawit":29.0,
+        "Produksi Cabe Rawit":290.0,
+        "Curah Hujan":187.9
+    },
+    {
+        "Tahun":2005,
+        "Kecamatan":"Sukowono",
+        "Luas Panen Cabe Rawit":55.0,
+        "Produktivitas Cabe Rawit":11.73,
+        "Produksi Cabe Rawit":645.0,
+        "Curah Hujan":161.3
+    },
+    {
+        "Tahun":2005,
+        "Kecamatan":"Jelbuk",
+        "Luas Panen Cabe Rawit":79.0,
+        "Produktivitas Cabe Rawit":3.95,
+        "Produksi Cabe Rawit":312.0,
+        "Curah Hujan":null
+    },
+    {
+        "Tahun":2005,
+        "Kecamatan":"Kaliwates",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":168.8
+    },
+    {
+        "Tahun":2005,
+        "Kecamatan":"Sumbersari",
+        "Luas Panen Cabe Rawit":8.0,
+        "Produktivitas Cabe Rawit":41.0,
+        "Produksi Cabe Rawit":328.0,
+        "Curah Hujan":172.9
+    },
+    {
+        "Tahun":2005,
+        "Kecamatan":"Patrang",
+        "Luas Panen Cabe Rawit":10.0,
+        "Produktivitas Cabe Rawit":8.8,
+        "Produksi Cabe Rawit":88.0,
+        "Curah Hujan":203.4
+    },
+    {
+        "Tahun":2006,
+        "Kecamatan":"Kencong",
+        "Luas Panen Cabe Rawit":18.0,
+        "Produktivitas Cabe Rawit":13.67,
+        "Produksi Cabe Rawit":246.0,
+        "Curah Hujan":121.3
+    },
+    {
+        "Tahun":2006,
+        "Kecamatan":"Gumukmas",
+        "Luas Panen Cabe Rawit":899.0,
+        "Produktivitas Cabe Rawit":18.53,
+        "Produksi Cabe Rawit":16658.0,
+        "Curah Hujan":133.7
+    },
+    {
+        "Tahun":2006,
+        "Kecamatan":"Puger",
+        "Luas Panen Cabe Rawit":2.0,
+        "Produktivitas Cabe Rawit":5.0,
+        "Produksi Cabe Rawit":10.0,
+        "Curah Hujan":136.9
+    },
+    {
+        "Tahun":2006,
+        "Kecamatan":"Wuluhan",
+        "Luas Panen Cabe Rawit":55.0,
+        "Produktivitas Cabe Rawit":5.45,
+        "Produksi Cabe Rawit":300.0,
+        "Curah Hujan":122.3
+    },
+    {
+        "Tahun":2006,
+        "Kecamatan":"Ambulu",
+        "Luas Panen Cabe Rawit":47.0,
+        "Produktivitas Cabe Rawit":39.6,
+        "Produksi Cabe Rawit":1861.0,
+        "Curah Hujan":146.6
+    },
+    {
+        "Tahun":2006,
+        "Kecamatan":"Tempurejo",
+        "Luas Panen Cabe Rawit":88.0,
+        "Produktivitas Cabe Rawit":14.95,
+        "Produksi Cabe Rawit":1316.0,
+        "Curah Hujan":221.0
+    },
+    {
+        "Tahun":2006,
+        "Kecamatan":"Silo",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":282.7
+    },
+    {
+        "Tahun":2006,
+        "Kecamatan":"Mayang",
+        "Luas Panen Cabe Rawit":30.0,
+        "Produktivitas Cabe Rawit":15.6,
+        "Produksi Cabe Rawit":468.0,
+        "Curah Hujan":256.9
+    },
+    {
+        "Tahun":2006,
+        "Kecamatan":"Mumbulsari",
+        "Luas Panen Cabe Rawit":19.0,
+        "Produktivitas Cabe Rawit":14.79,
+        "Produksi Cabe Rawit":281.0,
+        "Curah Hujan":200.9
+    },
+    {
+        "Tahun":2006,
+        "Kecamatan":"Jenggawah",
+        "Luas Panen Cabe Rawit":22.0,
+        "Produktivitas Cabe Rawit":21.09,
+        "Produksi Cabe Rawit":464.0,
+        "Curah Hujan":186.2
+    },
+    {
+        "Tahun":2006,
+        "Kecamatan":"Ajung",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":260.6
+    },
+    {
+        "Tahun":2006,
+        "Kecamatan":"Rambipuji",
+        "Luas Panen Cabe Rawit":21.0,
+        "Produktivitas Cabe Rawit":9.05,
+        "Produksi Cabe Rawit":190.0,
+        "Curah Hujan":225.5
+    },
+    {
+        "Tahun":2006,
+        "Kecamatan":"Balung",
+        "Luas Panen Cabe Rawit":14.0,
+        "Produktivitas Cabe Rawit":34.5,
+        "Produksi Cabe Rawit":483.0,
+        "Curah Hujan":145.4
+    },
+    {
+        "Tahun":2006,
+        "Kecamatan":"Umbulsari",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":171.9
+    },
+    {
+        "Tahun":2006,
+        "Kecamatan":"Semboro",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":230.4
+    },
+    {
+        "Tahun":2006,
+        "Kecamatan":"Jombang",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":166.0
+    },
+    {
+        "Tahun":2006,
+        "Kecamatan":"Sumberbaru",
+        "Luas Panen Cabe Rawit":2.0,
+        "Produktivitas Cabe Rawit":30.5,
+        "Produksi Cabe Rawit":61.0,
+        "Curah Hujan":218.4
+    },
+    {
+        "Tahun":2006,
+        "Kecamatan":"Tanggul",
+        "Luas Panen Cabe Rawit":29.0,
+        "Produktivitas Cabe Rawit":7.52,
+        "Produksi Cabe Rawit":218.0,
+        "Curah Hujan":254.7
+    },
+    {
+        "Tahun":2006,
+        "Kecamatan":"Bangsalsari",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":239.9
+    },
+    {
+        "Tahun":2006,
+        "Kecamatan":"Panti",
+        "Luas Panen Cabe Rawit":10.0,
+        "Produktivitas Cabe Rawit":5.0,
+        "Produksi Cabe Rawit":50.0,
+        "Curah Hujan":314.9
+    },
+    {
+        "Tahun":2006,
+        "Kecamatan":"Sukorambi",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":299.9
+    },
+    {
+        "Tahun":2006,
+        "Kecamatan":"Arjasa",
+        "Luas Panen Cabe Rawit":35.0,
+        "Produktivitas Cabe Rawit":35.0,
+        "Produksi Cabe Rawit":1225.0,
+        "Curah Hujan":271.0
+    },
+    {
+        "Tahun":2006,
+        "Kecamatan":"Pakusari",
+        "Luas Panen Cabe Rawit":12.0,
+        "Produktivitas Cabe Rawit":65.0,
+        "Produksi Cabe Rawit":780.0,
+        "Curah Hujan":203.9
+    },
+    {
+        "Tahun":2006,
+        "Kecamatan":"Kalisat",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":186.9
+    },
+    {
+        "Tahun":2006,
+        "Kecamatan":"Ledokombo",
+        "Luas Panen Cabe Rawit":313.0,
+        "Produktivitas Cabe Rawit":1.57,
+        "Produksi Cabe Rawit":491.0,
+        "Curah Hujan":190.3
+    },
+    {
+        "Tahun":2006,
+        "Kecamatan":"Sumberjambe",
+        "Luas Panen Cabe Rawit":2.0,
+        "Produktivitas Cabe Rawit":20.5,
+        "Produksi Cabe Rawit":41.0,
+        "Curah Hujan":239.4
+    },
+    {
+        "Tahun":2006,
+        "Kecamatan":"Sukowono",
+        "Luas Panen Cabe Rawit":2.0,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":40.0,
+        "Curah Hujan":386.7
+    },
+    {
+        "Tahun":2006,
+        "Kecamatan":"Jelbuk",
+        "Luas Panen Cabe Rawit":60.0,
+        "Produktivitas Cabe Rawit":5.07,
+        "Produksi Cabe Rawit":304.0,
+        "Curah Hujan":227.5
+    },
+    {
+        "Tahun":2006,
+        "Kecamatan":"Kaliwates",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":477.6
+    },
+    {
+        "Tahun":2006,
+        "Kecamatan":"Sumbersari",
+        "Luas Panen Cabe Rawit":7.0,
+        "Produktivitas Cabe Rawit":24.0,
+        "Produksi Cabe Rawit":168.0,
+        "Curah Hujan":255.4
+    },
+    {
+        "Tahun":2006,
+        "Kecamatan":"Patrang",
+        "Luas Panen Cabe Rawit":3.0,
+        "Produktivitas Cabe Rawit":15.67,
+        "Produksi Cabe Rawit":47.0,
+        "Curah Hujan":327.5
+    },
+    {
+        "Tahun":2007,
+        "Kecamatan":"Kencong",
+        "Luas Panen Cabe Rawit":16.0,
+        "Produktivitas Cabe Rawit":30.19,
+        "Produksi Cabe Rawit":483.0,
+        "Curah Hujan":308.4
+    },
+    {
+        "Tahun":2007,
+        "Kecamatan":"Gumukmas",
+        "Luas Panen Cabe Rawit":876.0,
+        "Produktivitas Cabe Rawit":20.69,
+        "Produksi Cabe Rawit":18124.0,
+        "Curah Hujan":116.7
+    },
+    {
+        "Tahun":2007,
+        "Kecamatan":"Puger",
+        "Luas Panen Cabe Rawit":5.0,
+        "Produktivitas Cabe Rawit":23.0,
+        "Produksi Cabe Rawit":115.0,
+        "Curah Hujan":124.7
+    },
+    {
+        "Tahun":2007,
+        "Kecamatan":"Wuluhan",
+        "Luas Panen Cabe Rawit":80.0,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":325.0,
+        "Curah Hujan":85.1
+    },
+    {
+        "Tahun":2007,
+        "Kecamatan":"Ambulu",
+        "Luas Panen Cabe Rawit":120.0,
+        "Produktivitas Cabe Rawit":29.81,
+        "Produksi Cabe Rawit":3577.0,
+        "Curah Hujan":85.0
+    },
+    {
+        "Tahun":2007,
+        "Kecamatan":"Tempurejo",
+        "Luas Panen Cabe Rawit":117.0,
+        "Produktivitas Cabe Rawit":18.79,
+        "Produksi Cabe Rawit":2199.0,
+        "Curah Hujan":83.2
+    },
+    {
+        "Tahun":2007,
+        "Kecamatan":"Silo",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":107.4
+    },
+    {
+        "Tahun":2007,
+        "Kecamatan":"Mayang",
+        "Luas Panen Cabe Rawit":15.0,
+        "Produktivitas Cabe Rawit":14.13,
+        "Produksi Cabe Rawit":212.0,
+        "Curah Hujan":193.3
+    },
+    {
+        "Tahun":2007,
+        "Kecamatan":"Mumbulsari",
+        "Luas Panen Cabe Rawit":5.0,
+        "Produktivitas Cabe Rawit":15.8,
+        "Produksi Cabe Rawit":79.0,
+        "Curah Hujan":93.5
+    },
+    {
+        "Tahun":2007,
+        "Kecamatan":"Jenggawah",
+        "Luas Panen Cabe Rawit":8.0,
+        "Produktivitas Cabe Rawit":11.88,
+        "Produksi Cabe Rawit":95.0,
+        "Curah Hujan":134.6
+    },
+    {
+        "Tahun":2007,
+        "Kecamatan":"Ajung",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":128.4
+    },
+    {
+        "Tahun":2007,
+        "Kecamatan":"Rambipuji",
+        "Luas Panen Cabe Rawit":24.0,
+        "Produktivitas Cabe Rawit":10.79,
+        "Produksi Cabe Rawit":259.0,
+        "Curah Hujan":183.7
+    },
+    {
+        "Tahun":2007,
+        "Kecamatan":"Balung",
+        "Luas Panen Cabe Rawit":21.0,
+        "Produktivitas Cabe Rawit":28.67,
+        "Produksi Cabe Rawit":602.0,
+        "Curah Hujan":159.6
+    },
+    {
+        "Tahun":2007,
+        "Kecamatan":"Umbulsari",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":101.2
+    },
+    {
+        "Tahun":2007,
+        "Kecamatan":"Semboro",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":151.4
+    },
+    {
+        "Tahun":2007,
+        "Kecamatan":"Jombang",
+        "Luas Panen Cabe Rawit":3.0,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":124.0,
+        "Curah Hujan":206.9
+    },
+    {
+        "Tahun":2007,
+        "Kecamatan":"Sumberbaru",
+        "Luas Panen Cabe Rawit":4.0,
+        "Produktivitas Cabe Rawit":16.5,
+        "Produksi Cabe Rawit":66.0,
+        "Curah Hujan":165.4
+    },
+    {
+        "Tahun":2007,
+        "Kecamatan":"Tanggul",
+        "Luas Panen Cabe Rawit":7.0,
+        "Produktivitas Cabe Rawit":5.14,
+        "Produksi Cabe Rawit":36.0,
+        "Curah Hujan":230.9
+    },
+    {
+        "Tahun":2007,
+        "Kecamatan":"Bangsalsari",
+        "Luas Panen Cabe Rawit":2.0,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":10.0,
+        "Curah Hujan":155.1
+    },
+    {
+        "Tahun":2007,
+        "Kecamatan":"Panti",
+        "Luas Panen Cabe Rawit":14.0,
+        "Produktivitas Cabe Rawit":8.43,
+        "Produksi Cabe Rawit":118.0,
+        "Curah Hujan":178.9
+    },
+    {
+        "Tahun":2007,
+        "Kecamatan":"Sukorambi",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":148.5
+    },
+    {
+        "Tahun":2007,
+        "Kecamatan":"Arjasa",
+        "Luas Panen Cabe Rawit":16.0,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":407.0,
+        "Curah Hujan":152.4
+    },
+    {
+        "Tahun":2007,
+        "Kecamatan":"Pakusari",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":125.2
+    },
+    {
+        "Tahun":2007,
+        "Kecamatan":"Kalisat",
+        "Luas Panen Cabe Rawit":598.0,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":6694.0,
+        "Curah Hujan":139.4
+    },
+    {
+        "Tahun":2007,
+        "Kecamatan":"Ledokombo",
+        "Luas Panen Cabe Rawit":426.0,
+        "Produktivitas Cabe Rawit":2.41,
+        "Produksi Cabe Rawit":1025.0,
+        "Curah Hujan":165.2
+    },
+    {
+        "Tahun":2007,
+        "Kecamatan":"Sumberjambe",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":276.7
+    },
+    {
+        "Tahun":2007,
+        "Kecamatan":"Sukowono",
+        "Luas Panen Cabe Rawit":17.0,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":340.0,
+        "Curah Hujan":174.3
+    },
+    {
+        "Tahun":2007,
+        "Kecamatan":"Jelbuk",
+        "Luas Panen Cabe Rawit":60.0,
+        "Produktivitas Cabe Rawit":2.67,
+        "Produksi Cabe Rawit":160.0,
+        "Curah Hujan":210.8
+    },
+    {
+        "Tahun":2007,
+        "Kecamatan":"Kaliwates",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":127.2
+    },
+    {
+        "Tahun":2007,
+        "Kecamatan":"Sumbersari",
+        "Luas Panen Cabe Rawit":6.0,
+        "Produktivitas Cabe Rawit":22.17,
+        "Produksi Cabe Rawit":133.0,
+        "Curah Hujan":152.3
+    },
+    {
+        "Tahun":2007,
+        "Kecamatan":"Patrang",
+        "Luas Panen Cabe Rawit":4.0,
+        "Produktivitas Cabe Rawit":16.5,
+        "Produksi Cabe Rawit":66.0,
+        "Curah Hujan":133.9
+    },
+    {
+        "Tahun":2008,
+        "Kecamatan":"Kencong",
+        "Luas Panen Cabe Rawit":19.0,
+        "Produktivitas Cabe Rawit":24.32,
+        "Produksi Cabe Rawit":462.0,
+        "Curah Hujan":105.4
+    },
+    {
+        "Tahun":2008,
+        "Kecamatan":"Gumukmas",
+        "Luas Panen Cabe Rawit":452.0,
+        "Produktivitas Cabe Rawit":12.7,
+        "Produksi Cabe Rawit":5740.0,
+        "Curah Hujan":120.3
+    },
+    {
+        "Tahun":2008,
+        "Kecamatan":"Puger",
+        "Luas Panen Cabe Rawit":14.0,
+        "Produktivitas Cabe Rawit":28.36,
+        "Produksi Cabe Rawit":397.0,
+        "Curah Hujan":134.2
+    },
+    {
+        "Tahun":2008,
+        "Kecamatan":"Wuluhan",
+        "Luas Panen Cabe Rawit":263.0,
+        "Produktivitas Cabe Rawit":21.37,
+        "Produksi Cabe Rawit":5621.0,
+        "Curah Hujan":144.0
+    },
+    {
+        "Tahun":2008,
+        "Kecamatan":"Ambulu",
+        "Luas Panen Cabe Rawit":143.0,
+        "Produktivitas Cabe Rawit":25.49,
+        "Produksi Cabe Rawit":3645.0,
+        "Curah Hujan":131.0
+    },
+    {
+        "Tahun":2008,
+        "Kecamatan":"Tempurejo",
+        "Luas Panen Cabe Rawit":83.0,
+        "Produktivitas Cabe Rawit":23.47,
+        "Produksi Cabe Rawit":1984.0,
+        "Curah Hujan":182.9
+    },
+    {
+        "Tahun":2008,
+        "Kecamatan":"Silo",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":190.6
+    },
+    {
+        "Tahun":2008,
+        "Kecamatan":"Mayang",
+        "Luas Panen Cabe Rawit":21.0,
+        "Produktivitas Cabe Rawit":11.9,
+        "Produksi Cabe Rawit":250.0,
+        "Curah Hujan":191.7
+    },
+    {
+        "Tahun":2008,
+        "Kecamatan":"Mumbulsari",
+        "Luas Panen Cabe Rawit":12.0,
+        "Produktivitas Cabe Rawit":34.75,
+        "Produksi Cabe Rawit":417.0,
+        "Curah Hujan":192.1
+    },
+    {
+        "Tahun":2008,
+        "Kecamatan":"Jenggawah",
+        "Luas Panen Cabe Rawit":7.0,
+        "Produktivitas Cabe Rawit":24.29,
+        "Produksi Cabe Rawit":170.0,
+        "Curah Hujan":191.4
+    },
+    {
+        "Tahun":2008,
+        "Kecamatan":"Ajung",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":206.2
+    },
+    {
+        "Tahun":2008,
+        "Kecamatan":"Rambipuji",
+        "Luas Panen Cabe Rawit":20.0,
+        "Produktivitas Cabe Rawit":6.75,
+        "Produksi Cabe Rawit":135.0,
+        "Curah Hujan":201.6
+    },
+    {
+        "Tahun":2008,
+        "Kecamatan":"Balung",
+        "Luas Panen Cabe Rawit":11.0,
+        "Produktivitas Cabe Rawit":23.45,
+        "Produksi Cabe Rawit":258.0,
+        "Curah Hujan":164.7
+    },
+    {
+        "Tahun":2008,
+        "Kecamatan":"Umbulsari",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":253.9
+    },
+    {
+        "Tahun":2008,
+        "Kecamatan":"Semboro",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":199.5
+    },
+    {
+        "Tahun":2008,
+        "Kecamatan":"Jombang",
+        "Luas Panen Cabe Rawit":3.0,
+        "Produktivitas Cabe Rawit":37.33,
+        "Produksi Cabe Rawit":112.0,
+        "Curah Hujan":141.7
+    },
+    {
+        "Tahun":2008,
+        "Kecamatan":"Sumberbaru",
+        "Luas Panen Cabe Rawit":3.0,
+        "Produktivitas Cabe Rawit":14.0,
+        "Produksi Cabe Rawit":42.0,
+        "Curah Hujan":174.8
+    },
+    {
+        "Tahun":2008,
+        "Kecamatan":"Tanggul",
+        "Luas Panen Cabe Rawit":5.0,
+        "Produktivitas Cabe Rawit":11.2,
+        "Produksi Cabe Rawit":56.0,
+        "Curah Hujan":223.5
+    },
+    {
+        "Tahun":2008,
+        "Kecamatan":"Bangsalsari",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":200.0
+    },
+    {
+        "Tahun":2008,
+        "Kecamatan":"Panti",
+        "Luas Panen Cabe Rawit":13.0,
+        "Produktivitas Cabe Rawit":26.38,
+        "Produksi Cabe Rawit":343.0,
+        "Curah Hujan":233.7
+    },
+    {
+        "Tahun":2008,
+        "Kecamatan":"Sukorambi",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":223.3
+    },
+    {
+        "Tahun":2008,
+        "Kecamatan":"Arjasa",
+        "Luas Panen Cabe Rawit":185.0,
+        "Produktivitas Cabe Rawit":38.22,
+        "Produksi Cabe Rawit":7070.0,
+        "Curah Hujan":207.9
+    },
+    {
+        "Tahun":2008,
+        "Kecamatan":"Pakusari",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":170.0
+    },
+    {
+        "Tahun":2008,
+        "Kecamatan":"Kalisat",
+        "Luas Panen Cabe Rawit":1130.0,
+        "Produktivitas Cabe Rawit":2.4,
+        "Produksi Cabe Rawit":2716.0,
+        "Curah Hujan":191.2
+    },
+    {
+        "Tahun":2008,
+        "Kecamatan":"Ledokombo",
+        "Luas Panen Cabe Rawit":211.0,
+        "Produktivitas Cabe Rawit":2.27,
+        "Produksi Cabe Rawit":479.0,
+        "Curah Hujan":176.9
+    },
+    {
+        "Tahun":2008,
+        "Kecamatan":"Sumberjambe",
+        "Luas Panen Cabe Rawit":4.0,
+        "Produktivitas Cabe Rawit":18.0,
+        "Produksi Cabe Rawit":72.0,
+        "Curah Hujan":193.2
+    },
+    {
+        "Tahun":2008,
+        "Kecamatan":"Sukowono",
+        "Luas Panen Cabe Rawit":52.0,
+        "Produktivitas Cabe Rawit":4.46,
+        "Produksi Cabe Rawit":232.0,
+        "Curah Hujan":163.6
+    },
+    {
+        "Tahun":2008,
+        "Kecamatan":"Jelbuk",
+        "Luas Panen Cabe Rawit":269.0,
+        "Produktivitas Cabe Rawit":7.85,
+        "Produksi Cabe Rawit":2112.0,
+        "Curah Hujan":208.9
+    },
+    {
+        "Tahun":2008,
+        "Kecamatan":"Kaliwates",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":195.3
+    },
+    {
+        "Tahun":2008,
+        "Kecamatan":"Sumbersari",
+        "Luas Panen Cabe Rawit":9.0,
+        "Produktivitas Cabe Rawit":22.11,
+        "Produksi Cabe Rawit":199.0,
+        "Curah Hujan":144.7
+    },
+    {
+        "Tahun":2008,
+        "Kecamatan":"Patrang",
+        "Luas Panen Cabe Rawit":2.0,
+        "Produktivitas Cabe Rawit":4.0,
+        "Produksi Cabe Rawit":8.0,
+        "Curah Hujan":237.3
+    },
+    {
+        "Tahun":2009,
+        "Kecamatan":"Kencong",
+        "Luas Panen Cabe Rawit":22.0,
+        "Produktivitas Cabe Rawit":22.55,
+        "Produksi Cabe Rawit":496.0,
+        "Curah Hujan":93.9
+    },
+    {
+        "Tahun":2009,
+        "Kecamatan":"Gumukmas",
+        "Luas Panen Cabe Rawit":522.0,
+        "Produktivitas Cabe Rawit":21.24,
+        "Produksi Cabe Rawit":11087.0,
+        "Curah Hujan":91.4
+    },
+    {
+        "Tahun":2009,
+        "Kecamatan":"Puger",
+        "Luas Panen Cabe Rawit":6.0,
+        "Produktivitas Cabe Rawit":13.33,
+        "Produksi Cabe Rawit":80.0,
+        "Curah Hujan":49.5
+    },
+    {
+        "Tahun":2009,
+        "Kecamatan":"Wuluhan",
+        "Luas Panen Cabe Rawit":312.0,
+        "Produktivitas Cabe Rawit":11.43,
+        "Produksi Cabe Rawit":3566.0,
+        "Curah Hujan":88.5
+    },
+    {
+        "Tahun":2009,
+        "Kecamatan":"Ambulu",
+        "Luas Panen Cabe Rawit":55.0,
+        "Produktivitas Cabe Rawit":23.91,
+        "Produksi Cabe Rawit":1315.0,
+        "Curah Hujan":78.0
+    },
+    {
+        "Tahun":2009,
+        "Kecamatan":"Tempurejo",
+        "Luas Panen Cabe Rawit":128.0,
+        "Produktivitas Cabe Rawit":25.52,
+        "Produksi Cabe Rawit":3267.0,
+        "Curah Hujan":110.8
+    },
+    {
+        "Tahun":2009,
+        "Kecamatan":"Silo",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":140.8
+    },
+    {
+        "Tahun":2009,
+        "Kecamatan":"Mayang",
+        "Luas Panen Cabe Rawit":16.0,
+        "Produktivitas Cabe Rawit":9.69,
+        "Produksi Cabe Rawit":155.0,
+        "Curah Hujan":155.9
+    },
+    {
+        "Tahun":2009,
+        "Kecamatan":"Mumbulsari",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":83.2
+    },
+    {
+        "Tahun":2009,
+        "Kecamatan":"Jenggawah",
+        "Luas Panen Cabe Rawit":5.0,
+        "Produktivitas Cabe Rawit":24.0,
+        "Produksi Cabe Rawit":120.0,
+        "Curah Hujan":117.1
+    },
+    {
+        "Tahun":2009,
+        "Kecamatan":"Ajung",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":125.2
+    },
+    {
+        "Tahun":2009,
+        "Kecamatan":"Rambipuji",
+        "Luas Panen Cabe Rawit":62.0,
+        "Produktivitas Cabe Rawit":12.18,
+        "Produksi Cabe Rawit":755.0,
+        "Curah Hujan":124.4
+    },
+    {
+        "Tahun":2009,
+        "Kecamatan":"Balung",
+        "Luas Panen Cabe Rawit":36.0,
+        "Produktivitas Cabe Rawit":20.22,
+        "Produksi Cabe Rawit":728.0,
+        "Curah Hujan":72.1
+    },
+    {
+        "Tahun":2009,
+        "Kecamatan":"Umbulsari",
+        "Luas Panen Cabe Rawit":3.0,
+        "Produktivitas Cabe Rawit":15.0,
+        "Produksi Cabe Rawit":45.0,
+        "Curah Hujan":153.2
+    },
+    {
+        "Tahun":2009,
+        "Kecamatan":"Semboro",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":117.9
+    },
+    {
+        "Tahun":2009,
+        "Kecamatan":"Jombang",
+        "Luas Panen Cabe Rawit":10.0,
+        "Produktivitas Cabe Rawit":30.5,
+        "Produksi Cabe Rawit":305.0,
+        "Curah Hujan":92.4
+    },
+    {
+        "Tahun":2009,
+        "Kecamatan":"Sumberbaru",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":85.8
+    },
+    {
+        "Tahun":2009,
+        "Kecamatan":"Tanggul",
+        "Luas Panen Cabe Rawit":9.0,
+        "Produktivitas Cabe Rawit":9.78,
+        "Produksi Cabe Rawit":88.0,
+        "Curah Hujan":150.5
+    },
+    {
+        "Tahun":2009,
+        "Kecamatan":"Bangsalsari",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":98.3
+    },
+    {
+        "Tahun":2009,
+        "Kecamatan":"Panti",
+        "Luas Panen Cabe Rawit":3.0,
+        "Produktivitas Cabe Rawit":16.67,
+        "Produksi Cabe Rawit":50.0,
+        "Curah Hujan":176.7
+    },
+    {
+        "Tahun":2009,
+        "Kecamatan":"Sukorambi",
+        "Luas Panen Cabe Rawit":4.0,
+        "Produktivitas Cabe Rawit":20.75,
+        "Produksi Cabe Rawit":83.0,
+        "Curah Hujan":151.9
+    },
+    {
+        "Tahun":2009,
+        "Kecamatan":"Arjasa",
+        "Luas Panen Cabe Rawit":137.0,
+        "Produktivitas Cabe Rawit":6.04,
+        "Produksi Cabe Rawit":828.0,
+        "Curah Hujan":148.1
+    },
+    {
+        "Tahun":2009,
+        "Kecamatan":"Pakusari",
+        "Luas Panen Cabe Rawit":19.0,
+        "Produktivitas Cabe Rawit":25.79,
+        "Produksi Cabe Rawit":490.0,
+        "Curah Hujan":145.5
+    },
+    {
+        "Tahun":2009,
+        "Kecamatan":"Kalisat",
+        "Luas Panen Cabe Rawit":53.0,
+        "Produktivitas Cabe Rawit":15.0,
+        "Produksi Cabe Rawit":795.0,
+        "Curah Hujan":145.5
+    },
+    {
+        "Tahun":2009,
+        "Kecamatan":"Ledokombo",
+        "Luas Panen Cabe Rawit":241.0,
+        "Produktivitas Cabe Rawit":9.16,
+        "Produksi Cabe Rawit":2207.0,
+        "Curah Hujan":166.4
+    },
+    {
+        "Tahun":2009,
+        "Kecamatan":"Sumberjambe",
+        "Luas Panen Cabe Rawit":21.0,
+        "Produktivitas Cabe Rawit":19.67,
+        "Produksi Cabe Rawit":413.0,
+        "Curah Hujan":167.9
+    },
+    {
+        "Tahun":2009,
+        "Kecamatan":"Sukowono",
+        "Luas Panen Cabe Rawit":317.0,
+        "Produktivitas Cabe Rawit":9.37,
+        "Produksi Cabe Rawit":2969.0,
+        "Curah Hujan":170.5
+    },
+    {
+        "Tahun":2009,
+        "Kecamatan":"Jelbuk",
+        "Luas Panen Cabe Rawit":397.0,
+        "Produktivitas Cabe Rawit":7.67,
+        "Produksi Cabe Rawit":3046.0,
+        "Curah Hujan":207.1
+    },
+    {
+        "Tahun":2009,
+        "Kecamatan":"Kaliwates",
+        "Luas Panen Cabe Rawit":6.0,
+        "Produktivitas Cabe Rawit":29.17,
+        "Produksi Cabe Rawit":175.0,
+        "Curah Hujan":160.6
+    },
+    {
+        "Tahun":2009,
+        "Kecamatan":"Sumbersari",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":77.0
+    },
+    {
+        "Tahun":2009,
+        "Kecamatan":"Patrang",
+        "Luas Panen Cabe Rawit":6.0,
+        "Produktivitas Cabe Rawit":25.5,
+        "Produksi Cabe Rawit":153.0,
+        "Curah Hujan":180.4
+    },
+    {
+        "Tahun":2010,
+        "Kecamatan":"Kencong",
+        "Luas Panen Cabe Rawit":20.0,
+        "Produktivitas Cabe Rawit":20.85,
+        "Produksi Cabe Rawit":417.0,
+        "Curah Hujan":205.6
+    },
+    {
+        "Tahun":2010,
+        "Kecamatan":"Gumukmas",
+        "Luas Panen Cabe Rawit":151.0,
+        "Produktivitas Cabe Rawit":22.55,
+        "Produksi Cabe Rawit":3405.0,
+        "Curah Hujan":154.92
+    },
+    {
+        "Tahun":2010,
+        "Kecamatan":"Puger",
+        "Luas Panen Cabe Rawit":17.0,
+        "Produktivitas Cabe Rawit":12.35,
+        "Produksi Cabe Rawit":210.0,
+        "Curah Hujan":114.8
+    },
+    {
+        "Tahun":2010,
+        "Kecamatan":"Wuluhan",
+        "Luas Panen Cabe Rawit":93.0,
+        "Produktivitas Cabe Rawit":15.48,
+        "Produksi Cabe Rawit":1440.0,
+        "Curah Hujan":163.3
+    },
+    {
+        "Tahun":2010,
+        "Kecamatan":"Ambulu",
+        "Luas Panen Cabe Rawit":20.0,
+        "Produktivitas Cabe Rawit":48.9,
+        "Produksi Cabe Rawit":978.0,
+        "Curah Hujan":167.9
+    },
+    {
+        "Tahun":2010,
+        "Kecamatan":"Tempurejo",
+        "Luas Panen Cabe Rawit":107.0,
+        "Produktivitas Cabe Rawit":21.36,
+        "Produksi Cabe Rawit":2286.0,
+        "Curah Hujan":224.1
+    },
+    {
+        "Tahun":2010,
+        "Kecamatan":"Silo",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":243.9
+    },
+    {
+        "Tahun":2010,
+        "Kecamatan":"Mayang",
+        "Luas Panen Cabe Rawit":15.0,
+        "Produktivitas Cabe Rawit":19.27,
+        "Produksi Cabe Rawit":289.0,
+        "Curah Hujan":211.5
+    },
+    {
+        "Tahun":2010,
+        "Kecamatan":"Mumbulsari",
+        "Luas Panen Cabe Rawit":1.0,
+        "Produktivitas Cabe Rawit":23.0,
+        "Produksi Cabe Rawit":23.0,
+        "Curah Hujan":104.8
+    },
+    {
+        "Tahun":2010,
+        "Kecamatan":"Jenggawah",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":248.4
+    },
+    {
+        "Tahun":2010,
+        "Kecamatan":"Ajung",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":269.3
+    },
+    {
+        "Tahun":2010,
+        "Kecamatan":"Rambipuji",
+        "Luas Panen Cabe Rawit":2.0,
+        "Produktivitas Cabe Rawit":24.0,
+        "Produksi Cabe Rawit":48.0,
+        "Curah Hujan":269.9
+    },
+    {
+        "Tahun":2010,
+        "Kecamatan":"Balung",
+        "Luas Panen Cabe Rawit":10.0,
+        "Produktivitas Cabe Rawit":40.0,
+        "Produksi Cabe Rawit":400.0,
+        "Curah Hujan":179.2
+    },
+    {
+        "Tahun":2010,
+        "Kecamatan":"Umbulsari",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":243.0
+    },
+    {
+        "Tahun":2010,
+        "Kecamatan":"Semboro",
+        "Luas Panen Cabe Rawit":2.0,
+        "Produktivitas Cabe Rawit":9.0,
+        "Produksi Cabe Rawit":18.0,
+        "Curah Hujan":235.3
+    },
+    {
+        "Tahun":2010,
+        "Kecamatan":"Jombang",
+        "Luas Panen Cabe Rawit":23.0,
+        "Produktivitas Cabe Rawit":18.57,
+        "Produksi Cabe Rawit":427.0,
+        "Curah Hujan":216.2
+    },
+    {
+        "Tahun":2010,
+        "Kecamatan":"Sumberbaru",
+        "Luas Panen Cabe Rawit":5.0,
+        "Produktivitas Cabe Rawit":18.2,
+        "Produksi Cabe Rawit":91.0,
+        "Curah Hujan":244.3
+    },
+    {
+        "Tahun":2010,
+        "Kecamatan":"Tanggul",
+        "Luas Panen Cabe Rawit":11.0,
+        "Produktivitas Cabe Rawit":12.45,
+        "Produksi Cabe Rawit":137.0,
+        "Curah Hujan":312.5
+    },
+    {
+        "Tahun":2010,
+        "Kecamatan":"Bangsalsari",
+        "Luas Panen Cabe Rawit":2.0,
+        "Produktivitas Cabe Rawit":7.5,
+        "Produksi Cabe Rawit":15.0,
+        "Curah Hujan":270.2
+    },
+    {
+        "Tahun":2010,
+        "Kecamatan":"Panti",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":339.6
+    },
+    {
+        "Tahun":2010,
+        "Kecamatan":"Sukorambi",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":285.4
+    },
+    {
+        "Tahun":2010,
+        "Kecamatan":"Arjasa",
+        "Luas Panen Cabe Rawit":65.0,
+        "Produktivitas Cabe Rawit":16.58,
+        "Produksi Cabe Rawit":1078.0,
+        "Curah Hujan":214.8
+    },
+    {
+        "Tahun":2010,
+        "Kecamatan":"Pakusari",
+        "Luas Panen Cabe Rawit":12.0,
+        "Produktivitas Cabe Rawit":8.0,
+        "Produksi Cabe Rawit":96.0,
+        "Curah Hujan":189.6
+    },
+    {
+        "Tahun":2010,
+        "Kecamatan":"Kalisat",
+        "Luas Panen Cabe Rawit":759.0,
+        "Produktivitas Cabe Rawit":12.51,
+        "Produksi Cabe Rawit":9495.0,
+        "Curah Hujan":223.9
+    },
+    {
+        "Tahun":2010,
+        "Kecamatan":"Ledokombo",
+        "Luas Panen Cabe Rawit":177.0,
+        "Produktivitas Cabe Rawit":8.39,
+        "Produksi Cabe Rawit":1485.0,
+        "Curah Hujan":289.5
+    },
+    {
+        "Tahun":2010,
+        "Kecamatan":"Sumberjambe",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":353.4
+    },
+    {
+        "Tahun":2010,
+        "Kecamatan":"Sukowono",
+        "Luas Panen Cabe Rawit":510.0,
+        "Produktivitas Cabe Rawit":8.07,
+        "Produksi Cabe Rawit":4118.0,
+        "Curah Hujan":257.5
+    },
+    {
+        "Tahun":2010,
+        "Kecamatan":"Jelbuk",
+        "Luas Panen Cabe Rawit":227.0,
+        "Produktivitas Cabe Rawit":4.23,
+        "Produksi Cabe Rawit":960.0,
+        "Curah Hujan":263.9
+    },
+    {
+        "Tahun":2010,
+        "Kecamatan":"Kaliwates",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":300.8
+    },
+    {
+        "Tahun":2010,
+        "Kecamatan":"Sumbersari",
+        "Luas Panen Cabe Rawit":4.0,
+        "Produktivitas Cabe Rawit":16.0,
+        "Produksi Cabe Rawit":64.0,
+        "Curah Hujan":128.7
+    },
+    {
+        "Tahun":2010,
+        "Kecamatan":"Patrang",
+        "Luas Panen Cabe Rawit":12.0,
+        "Produktivitas Cabe Rawit":19.08,
+        "Produksi Cabe Rawit":229.0,
+        "Curah Hujan":241.8
+    },
+    {
+        "Tahun":2011,
+        "Kecamatan":"Kencong",
+        "Luas Panen Cabe Rawit":12.0,
+        "Produktivitas Cabe Rawit":15.0,
+        "Produksi Cabe Rawit":180.0,
+        "Curah Hujan":166.0
+    },
+    {
+        "Tahun":2011,
+        "Kecamatan":"Gumukmas",
+        "Luas Panen Cabe Rawit":1153.0,
+        "Produktivitas Cabe Rawit":29.61,
+        "Produksi Cabe Rawit":34140.0,
+        "Curah Hujan":110.0
+    },
+    {
+        "Tahun":2011,
+        "Kecamatan":"Puger",
+        "Luas Panen Cabe Rawit":40.0,
+        "Produktivitas Cabe Rawit":11.38,
+        "Produksi Cabe Rawit":455.0,
+        "Curah Hujan":107.1
+    },
+    {
+        "Tahun":2011,
+        "Kecamatan":"Wuluhan",
+        "Luas Panen Cabe Rawit":126.0,
+        "Produktivitas Cabe Rawit":7.23,
+        "Produksi Cabe Rawit":911.0,
+        "Curah Hujan":100.1
+    },
+    {
+        "Tahun":2011,
+        "Kecamatan":"Ambulu",
+        "Luas Panen Cabe Rawit":56.0,
+        "Produktivitas Cabe Rawit":5.36,
+        "Produksi Cabe Rawit":300.0,
+        "Curah Hujan":107.8
+    },
+    {
+        "Tahun":2011,
+        "Kecamatan":"Tempurejo",
+        "Luas Panen Cabe Rawit":110.0,
+        "Produktivitas Cabe Rawit":25.15,
+        "Produksi Cabe Rawit":2766.0,
+        "Curah Hujan":164.6
+    },
+    {
+        "Tahun":2011,
+        "Kecamatan":"Silo",
+        "Luas Panen Cabe Rawit":17.0,
+        "Produktivitas Cabe Rawit":8.41,
+        "Produksi Cabe Rawit":143.0,
+        "Curah Hujan":159.2
+    },
+    {
+        "Tahun":2011,
+        "Kecamatan":"Mayang",
+        "Luas Panen Cabe Rawit":169.0,
+        "Produktivitas Cabe Rawit":10.63,
+        "Produksi Cabe Rawit":1796.0,
+        "Curah Hujan":225.4
+    },
+    {
+        "Tahun":2011,
+        "Kecamatan":"Mumbulsari",
+        "Luas Panen Cabe Rawit":25.0,
+        "Produktivitas Cabe Rawit":15.36,
+        "Produksi Cabe Rawit":384.0,
+        "Curah Hujan":178.3
+    },
+    {
+        "Tahun":2011,
+        "Kecamatan":"Jenggawah",
+        "Luas Panen Cabe Rawit":3.0,
+        "Produktivitas Cabe Rawit":8.33,
+        "Produksi Cabe Rawit":25.0,
+        "Curah Hujan":158.2
+    },
+    {
+        "Tahun":2011,
+        "Kecamatan":"Ajung",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":194.6
+    },
+    {
+        "Tahun":2011,
+        "Kecamatan":"Rambipuji",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":153.1
+    },
+    {
+        "Tahun":2011,
+        "Kecamatan":"Balung",
+        "Luas Panen Cabe Rawit":76.0,
+        "Produktivitas Cabe Rawit":20.84,
+        "Produksi Cabe Rawit":1584.0,
+        "Curah Hujan":112.4
+    },
+    {
+        "Tahun":2011,
+        "Kecamatan":"Umbulsari",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":null
+    },
+    {
+        "Tahun":2011,
+        "Kecamatan":"Semboro",
+        "Luas Panen Cabe Rawit":5.0,
+        "Produktivitas Cabe Rawit":4.6,
+        "Produksi Cabe Rawit":23.0,
+        "Curah Hujan":187.6
+    },
+    {
+        "Tahun":2011,
+        "Kecamatan":"Jombang",
+        "Luas Panen Cabe Rawit":12.0,
+        "Produktivitas Cabe Rawit":15.17,
+        "Produksi Cabe Rawit":182.0,
+        "Curah Hujan":138.7
+    },
+    {
+        "Tahun":2011,
+        "Kecamatan":"Sumberbaru",
+        "Luas Panen Cabe Rawit":7.0,
+        "Produktivitas Cabe Rawit":10.29,
+        "Produksi Cabe Rawit":72.0,
+        "Curah Hujan":210.0
+    },
+    {
+        "Tahun":2011,
+        "Kecamatan":"Tanggul",
+        "Luas Panen Cabe Rawit":13.0,
+        "Produktivitas Cabe Rawit":12.46,
+        "Produksi Cabe Rawit":162.0,
+        "Curah Hujan":171.1
+    },
+    {
+        "Tahun":2011,
+        "Kecamatan":"Bangsalsari",
+        "Luas Panen Cabe Rawit":1.0,
+        "Produktivitas Cabe Rawit":8.0,
+        "Produksi Cabe Rawit":8.0,
+        "Curah Hujan":164.2
+    },
+    {
+        "Tahun":2011,
+        "Kecamatan":"Panti",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":89.0,
+        "Curah Hujan":237.3
+    },
+    {
+        "Tahun":2011,
+        "Kecamatan":"Sukorambi",
+        "Luas Panen Cabe Rawit":18.0,
+        "Produktivitas Cabe Rawit":17.94,
+        "Produksi Cabe Rawit":323.0,
+        "Curah Hujan":257.8
+    },
+    {
+        "Tahun":2011,
+        "Kecamatan":"Arjasa",
+        "Luas Panen Cabe Rawit":100.0,
+        "Produktivitas Cabe Rawit":11.4,
+        "Produksi Cabe Rawit":1140.0,
+        "Curah Hujan":196.4
+    },
+    {
+        "Tahun":2011,
+        "Kecamatan":"Pakusari",
+        "Luas Panen Cabe Rawit":121.0,
+        "Produktivitas Cabe Rawit":7.19,
+        "Produksi Cabe Rawit":870.0,
+        "Curah Hujan":167.9
+    },
+    {
+        "Tahun":2011,
+        "Kecamatan":"Kalisat",
+        "Luas Panen Cabe Rawit":48.0,
+        "Produktivitas Cabe Rawit":10.98,
+        "Produksi Cabe Rawit":527.0,
+        "Curah Hujan":189.5
+    },
+    {
+        "Tahun":2011,
+        "Kecamatan":"Ledokombo",
+        "Luas Panen Cabe Rawit":175.0,
+        "Produktivitas Cabe Rawit":4.15,
+        "Produksi Cabe Rawit":727.0,
+        "Curah Hujan":243.5
+    },
+    {
+        "Tahun":2011,
+        "Kecamatan":"Sumberjambe",
+        "Luas Panen Cabe Rawit":36.0,
+        "Produktivitas Cabe Rawit":53.64,
+        "Produksi Cabe Rawit":1931.0,
+        "Curah Hujan":224.1
+    },
+    {
+        "Tahun":2011,
+        "Kecamatan":"Sukowono",
+        "Luas Panen Cabe Rawit":366.0,
+        "Produktivitas Cabe Rawit":7.28,
+        "Produksi Cabe Rawit":2666.0,
+        "Curah Hujan":211.9
+    },
+    {
+        "Tahun":2011,
+        "Kecamatan":"Jelbuk",
+        "Luas Panen Cabe Rawit":243.0,
+        "Produktivitas Cabe Rawit":5.73,
+        "Produksi Cabe Rawit":1392.0,
+        "Curah Hujan":172.0
+    },
+    {
+        "Tahun":2011,
+        "Kecamatan":"Kaliwates",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":245.5
+    },
+    {
+        "Tahun":2011,
+        "Kecamatan":"Sumbersari",
+        "Luas Panen Cabe Rawit":6.0,
+        "Produktivitas Cabe Rawit":17.83,
+        "Produksi Cabe Rawit":107.0,
+        "Curah Hujan":109.3
+    },
+    {
+        "Tahun":2011,
+        "Kecamatan":"Patrang",
+        "Luas Panen Cabe Rawit":15.0,
+        "Produktivitas Cabe Rawit":12.33,
+        "Produksi Cabe Rawit":185.0,
+        "Curah Hujan":192.3
+    },
+    {
+        "Tahun":2012,
+        "Kecamatan":"Kencong",
+        "Luas Panen Cabe Rawit":12.0,
+        "Produktivitas Cabe Rawit":25.42,
+        "Produksi Cabe Rawit":305.0,
+        "Curah Hujan":132.2
+    },
+    {
+        "Tahun":2012,
+        "Kecamatan":"Gumukmas",
+        "Luas Panen Cabe Rawit":614.0,
+        "Produktivitas Cabe Rawit":54.11,
+        "Produksi Cabe Rawit":33234.0,
+        "Curah Hujan":109.4
+    },
+    {
+        "Tahun":2012,
+        "Kecamatan":"Puger",
+        "Luas Panen Cabe Rawit":32.0,
+        "Produktivitas Cabe Rawit":165.0,
+        "Produksi Cabe Rawit":5280.0,
+        "Curah Hujan":122.1
+    },
+    {
+        "Tahun":2012,
+        "Kecamatan":"Wuluhan",
+        "Luas Panen Cabe Rawit":40.0,
+        "Produktivitas Cabe Rawit":18.15,
+        "Produksi Cabe Rawit":726.0,
+        "Curah Hujan":109.6
+    },
+    {
+        "Tahun":2012,
+        "Kecamatan":"Ambulu",
+        "Luas Panen Cabe Rawit":104.0,
+        "Produktivitas Cabe Rawit":18.65,
+        "Produksi Cabe Rawit":1940.0,
+        "Curah Hujan":126.9
+    },
+    {
+        "Tahun":2012,
+        "Kecamatan":"Tempurejo",
+        "Luas Panen Cabe Rawit":71.0,
+        "Produktivitas Cabe Rawit":39.69,
+        "Produksi Cabe Rawit":2818.0,
+        "Curah Hujan":161.3
+    },
+    {
+        "Tahun":2012,
+        "Kecamatan":"Silo",
+        "Luas Panen Cabe Rawit":12.0,
+        "Produktivitas Cabe Rawit":12.83,
+        "Produksi Cabe Rawit":154.0,
+        "Curah Hujan":157.2
+    },
+    {
+        "Tahun":2012,
+        "Kecamatan":"Mayang",
+        "Luas Panen Cabe Rawit":36.0,
+        "Produktivitas Cabe Rawit":15.64,
+        "Produksi Cabe Rawit":563.0,
+        "Curah Hujan":207.0
+    },
+    {
+        "Tahun":2012,
+        "Kecamatan":"Mumbulsari",
+        "Luas Panen Cabe Rawit":19.0,
+        "Produktivitas Cabe Rawit":33.74,
+        "Produksi Cabe Rawit":641.0,
+        "Curah Hujan":154.8
+    },
+    {
+        "Tahun":2012,
+        "Kecamatan":"Jenggawah",
+        "Luas Panen Cabe Rawit":4.0,
+        "Produktivitas Cabe Rawit":10.0,
+        "Produksi Cabe Rawit":40.0,
+        "Curah Hujan":159.8
+    },
+    {
+        "Tahun":2012,
+        "Kecamatan":"Ajung",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":188.6
+    },
+    {
+        "Tahun":2012,
+        "Kecamatan":"Rambipuji",
+        "Luas Panen Cabe Rawit":56.0,
+        "Produktivitas Cabe Rawit":9.61,
+        "Produksi Cabe Rawit":538.0,
+        "Curah Hujan":166.2
+    },
+    {
+        "Tahun":2012,
+        "Kecamatan":"Balung",
+        "Luas Panen Cabe Rawit":20.0,
+        "Produktivitas Cabe Rawit":64.3,
+        "Produksi Cabe Rawit":1286.0,
+        "Curah Hujan":108.0
+    },
+    {
+        "Tahun":2012,
+        "Kecamatan":"Umbulsari",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":null
+    },
+    {
+        "Tahun":2012,
+        "Kecamatan":"Semboro",
+        "Luas Panen Cabe Rawit":3.0,
+        "Produktivitas Cabe Rawit":21.67,
+        "Produksi Cabe Rawit":65.0,
+        "Curah Hujan":241.2
+    },
+    {
+        "Tahun":2012,
+        "Kecamatan":"Jombang",
+        "Luas Panen Cabe Rawit":8.0,
+        "Produktivitas Cabe Rawit":29.25,
+        "Produksi Cabe Rawit":234.0,
+        "Curah Hujan":138.3
+    },
+    {
+        "Tahun":2012,
+        "Kecamatan":"Sumberbaru",
+        "Luas Panen Cabe Rawit":6.0,
+        "Produktivitas Cabe Rawit":10.17,
+        "Produksi Cabe Rawit":61.0,
+        "Curah Hujan":216.5
+    },
+    {
+        "Tahun":2012,
+        "Kecamatan":"Tanggul",
+        "Luas Panen Cabe Rawit":12.0,
+        "Produktivitas Cabe Rawit":14.42,
+        "Produksi Cabe Rawit":173.0,
+        "Curah Hujan":183.5
+    },
+    {
+        "Tahun":2012,
+        "Kecamatan":"Bangsalsari",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":175.3
+    },
+    {
+        "Tahun":2012,
+        "Kecamatan":"Panti",
+        "Luas Panen Cabe Rawit":29.0,
+        "Produktivitas Cabe Rawit":17.03,
+        "Produksi Cabe Rawit":494.0,
+        "Curah Hujan":234.6
+    },
+    {
+        "Tahun":2012,
+        "Kecamatan":"Sukorambi",
+        "Luas Panen Cabe Rawit":2.0,
+        "Produktivitas Cabe Rawit":26.0,
+        "Produksi Cabe Rawit":52.0,
+        "Curah Hujan":212.6
+    },
+    {
+        "Tahun":2012,
+        "Kecamatan":"Arjasa",
+        "Luas Panen Cabe Rawit":87.0,
+        "Produktivitas Cabe Rawit":47.56,
+        "Produksi Cabe Rawit":4318.0,
+        "Curah Hujan":121.5
+    },
+    {
+        "Tahun":2012,
+        "Kecamatan":"Pakusari",
+        "Luas Panen Cabe Rawit":96.0,
+        "Produktivitas Cabe Rawit":5.31,
+        "Produksi Cabe Rawit":510.0,
+        "Curah Hujan":172.7
+    },
+    {
+        "Tahun":2012,
+        "Kecamatan":"Kalisat",
+        "Luas Panen Cabe Rawit":1687.0,
+        "Produktivitas Cabe Rawit":17.77,
+        "Produksi Cabe Rawit":29976.0,
+        "Curah Hujan":140.6
+    },
+    {
+        "Tahun":2012,
+        "Kecamatan":"Ledokombo",
+        "Luas Panen Cabe Rawit":125.0,
+        "Produktivitas Cabe Rawit":9.5,
+        "Produksi Cabe Rawit":1188.0,
+        "Curah Hujan":260.3
+    },
+    {
+        "Tahun":2012,
+        "Kecamatan":"Sumberjambe",
+        "Luas Panen Cabe Rawit":30.0,
+        "Produktivitas Cabe Rawit":44.1,
+        "Produksi Cabe Rawit":1323.0,
+        "Curah Hujan":191.0
+    },
+    {
+        "Tahun":2012,
+        "Kecamatan":"Sukowono",
+        "Luas Panen Cabe Rawit":50.0,
+        "Produktivitas Cabe Rawit":9.4,
+        "Produksi Cabe Rawit":470.0,
+        "Curah Hujan":168.1
+    },
+    {
+        "Tahun":2012,
+        "Kecamatan":"Jelbuk",
+        "Luas Panen Cabe Rawit":206.0,
+        "Produktivitas Cabe Rawit":6.09,
+        "Produksi Cabe Rawit":1255.0,
+        "Curah Hujan":124.2
+    },
+    {
+        "Tahun":2012,
+        "Kecamatan":"Kaliwates",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":219.6
+    },
+    {
+        "Tahun":2012,
+        "Kecamatan":"Sumbersari",
+        "Luas Panen Cabe Rawit":5.0,
+        "Produktivitas Cabe Rawit":16.2,
+        "Produksi Cabe Rawit":81.0,
+        "Curah Hujan":133.8
+    },
+    {
+        "Tahun":2012,
+        "Kecamatan":"Patrang",
+        "Luas Panen Cabe Rawit":5.0,
+        "Produktivitas Cabe Rawit":30.2,
+        "Produksi Cabe Rawit":151.0,
+        "Curah Hujan":114.5
+    },
+    {
+        "Tahun":2013,
+        "Kecamatan":"Kencong",
+        "Luas Panen Cabe Rawit":12.0,
+        "Produktivitas Cabe Rawit":59.0,
+        "Produksi Cabe Rawit":708.0,
+        "Curah Hujan":132.0
+    },
+    {
+        "Tahun":2013,
+        "Kecamatan":"Gumukmas",
+        "Luas Panen Cabe Rawit":539.0,
+        "Produktivitas Cabe Rawit":175.43,
+        "Produksi Cabe Rawit":94559.0,
+        "Curah Hujan":109.5
+    },
+    {
+        "Tahun":2013,
+        "Kecamatan":"Puger",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":366.0,
+        "Curah Hujan":117.9
+    },
+    {
+        "Tahun":2013,
+        "Kecamatan":"Wuluhan",
+        "Luas Panen Cabe Rawit":297.0,
+        "Produktivitas Cabe Rawit":20.96,
+        "Produksi Cabe Rawit":6225.0,
+        "Curah Hujan":109.6
+    },
+    {
+        "Tahun":2013,
+        "Kecamatan":"Ambulu",
+        "Luas Panen Cabe Rawit":94.0,
+        "Produktivitas Cabe Rawit":30.34,
+        "Produksi Cabe Rawit":2825.0,
+        "Curah Hujan":126.9
+    },
+    {
+        "Tahun":2013,
+        "Kecamatan":"Tempurejo",
+        "Luas Panen Cabe Rawit":36.0,
+        "Produktivitas Cabe Rawit":96.83,
+        "Produksi Cabe Rawit":3486.0,
+        "Curah Hujan":161.3
+    },
+    {
+        "Tahun":2013,
+        "Kecamatan":"Silo",
+        "Luas Panen Cabe Rawit":7.0,
+        "Produktivitas Cabe Rawit":108.86,
+        "Produksi Cabe Rawit":762.0,
+        "Curah Hujan":157.2
+    },
+    {
+        "Tahun":2013,
+        "Kecamatan":"Mayang",
+        "Luas Panen Cabe Rawit":29.0,
+        "Produktivitas Cabe Rawit":76.62,
+        "Produksi Cabe Rawit":2222.0,
+        "Curah Hujan":207.8
+    },
+    {
+        "Tahun":2013,
+        "Kecamatan":"Mumbulsari",
+        "Luas Panen Cabe Rawit":47.0,
+        "Produktivitas Cabe Rawit":32.26,
+        "Produksi Cabe Rawit":1516.0,
+        "Curah Hujan":154.8
+    },
+    {
+        "Tahun":2013,
+        "Kecamatan":"Jenggawah",
+        "Luas Panen Cabe Rawit":4.0,
+        "Produktivitas Cabe Rawit":13.5,
+        "Produksi Cabe Rawit":54.0,
+        "Curah Hujan":159.8
+    },
+    {
+        "Tahun":2013,
+        "Kecamatan":"Ajung",
+        "Luas Panen Cabe Rawit":2.0,
+        "Produktivitas Cabe Rawit":133.0,
+        "Produksi Cabe Rawit":266.0,
+        "Curah Hujan":188.6
+    },
+    {
+        "Tahun":2013,
+        "Kecamatan":"Rambipuji",
+        "Luas Panen Cabe Rawit":45.0,
+        "Produktivitas Cabe Rawit":177.91,
+        "Produksi Cabe Rawit":8006.0,
+        "Curah Hujan":166.3
+    },
+    {
+        "Tahun":2013,
+        "Kecamatan":"Balung",
+        "Luas Panen Cabe Rawit":48.0,
+        "Produktivitas Cabe Rawit":137.25,
+        "Produksi Cabe Rawit":6558.0,
+        "Curah Hujan":108.0
+    },
+    {
+        "Tahun":2013,
+        "Kecamatan":"Umbulsari",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":null
+    },
+    {
+        "Tahun":2013,
+        "Kecamatan":"Semboro",
+        "Luas Panen Cabe Rawit":7.0,
+        "Produktivitas Cabe Rawit":64.57,
+        "Produksi Cabe Rawit":452.0,
+        "Curah Hujan":241.2
+    },
+    {
+        "Tahun":2013,
+        "Kecamatan":"Jombang",
+        "Luas Panen Cabe Rawit":12.0,
+        "Produktivitas Cabe Rawit":46.5,
+        "Produksi Cabe Rawit":558.0,
+        "Curah Hujan":138.3
+    },
+    {
+        "Tahun":2013,
+        "Kecamatan":"Sumberbaru",
+        "Luas Panen Cabe Rawit":8.0,
+        "Produktivitas Cabe Rawit":239.75,
+        "Produksi Cabe Rawit":1918.0,
+        "Curah Hujan":216.5
+    },
+    {
+        "Tahun":2013,
+        "Kecamatan":"Tanggul",
+        "Luas Panen Cabe Rawit":13.0,
+        "Produktivitas Cabe Rawit":77.38,
+        "Produksi Cabe Rawit":1006.0,
+        "Curah Hujan":183.3
+    },
+    {
+        "Tahun":2013,
+        "Kecamatan":"Bangsalsari",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":169.0
+    },
+    {
+        "Tahun":2013,
+        "Kecamatan":"Panti",
+        "Luas Panen Cabe Rawit":2.0,
+        "Produktivitas Cabe Rawit":122.5,
+        "Produksi Cabe Rawit":245.0,
+        "Curah Hujan":234.6
+    },
+    {
+        "Tahun":2013,
+        "Kecamatan":"Sukorambi",
+        "Luas Panen Cabe Rawit":67.0,
+        "Produktivitas Cabe Rawit":21.21,
+        "Produksi Cabe Rawit":1421.0,
+        "Curah Hujan":212.6
+    },
+    {
+        "Tahun":2013,
+        "Kecamatan":"Arjasa",
+        "Luas Panen Cabe Rawit":105.0,
+        "Produktivitas Cabe Rawit":51.13,
+        "Produksi Cabe Rawit":5369.0,
+        "Curah Hujan":121.5
+    },
+    {
+        "Tahun":2013,
+        "Kecamatan":"Pakusari",
+        "Luas Panen Cabe Rawit":30.0,
+        "Produktivitas Cabe Rawit":67.37,
+        "Produksi Cabe Rawit":2018.0,
+        "Curah Hujan":172.7
+    },
+    {
+        "Tahun":2013,
+        "Kecamatan":"Kalisat",
+        "Luas Panen Cabe Rawit":1236.0,
+        "Produktivitas Cabe Rawit":33.38,
+        "Produksi Cabe Rawit":41259.0,
+        "Curah Hujan":140.6
+    },
+    {
+        "Tahun":2013,
+        "Kecamatan":"Ledokombo",
+        "Luas Panen Cabe Rawit":237.0,
+        "Produktivitas Cabe Rawit":50.14,
+        "Produksi Cabe Rawit":11883.0,
+        "Curah Hujan":260.3
+    },
+    {
+        "Tahun":2013,
+        "Kecamatan":"Sumberjambe",
+        "Luas Panen Cabe Rawit":31.0,
+        "Produktivitas Cabe Rawit":96.97,
+        "Produksi Cabe Rawit":3006.0,
+        "Curah Hujan":191.0
+    },
+    {
+        "Tahun":2013,
+        "Kecamatan":"Sukowono",
+        "Luas Panen Cabe Rawit":222.0,
+        "Produktivitas Cabe Rawit":84.76,
+        "Produksi Cabe Rawit":18817.0,
+        "Curah Hujan":168.1
+    },
+    {
+        "Tahun":2013,
+        "Kecamatan":"Jelbuk",
+        "Luas Panen Cabe Rawit":325.0,
+        "Produktivitas Cabe Rawit":16.94,
+        "Produksi Cabe Rawit":5506.0,
+        "Curah Hujan":124.2
+    },
+    {
+        "Tahun":2013,
+        "Kecamatan":"Kaliwates",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":219.6
+    },
+    {
+        "Tahun":2013,
+        "Kecamatan":"Sumbersari",
+        "Luas Panen Cabe Rawit":3.0,
+        "Produktivitas Cabe Rawit":234.0,
+        "Produksi Cabe Rawit":702.0,
+        "Curah Hujan":133.8
+    },
+    {
+        "Tahun":2013,
+        "Kecamatan":"Patrang",
+        "Luas Panen Cabe Rawit":3.0,
+        "Produktivitas Cabe Rawit":356.3,
+        "Produksi Cabe Rawit":1069.0,
+        "Curah Hujan":114.5
+    },
+    {
+        "Tahun":2014,
+        "Kecamatan":"Kencong",
+        "Luas Panen Cabe Rawit":10.0,
+        "Produktivitas Cabe Rawit":80.1,
+        "Produksi Cabe Rawit":801.0,
+        "Curah Hujan":183.1666667
+    },
+    {
+        "Tahun":2014,
+        "Kecamatan":"Gumukmas",
+        "Luas Panen Cabe Rawit":505.0,
+        "Produktivitas Cabe Rawit":198.89,
+        "Produksi Cabe Rawit":100441.0,
+        "Curah Hujan":157.016
+    },
+    {
+        "Tahun":2014,
+        "Kecamatan":"Puger",
+        "Luas Panen Cabe Rawit":140.0,
+        "Produktivitas Cabe Rawit":69.54,
+        "Produksi Cabe Rawit":9735.0,
+        "Curah Hujan":127.5566667
+    },
+    {
+        "Tahun":2014,
+        "Kecamatan":"Wuluhan",
+        "Luas Panen Cabe Rawit":297.0,
+        "Produktivitas Cabe Rawit":71.4,
+        "Produksi Cabe Rawit":21207.0,
+        "Curah Hujan":140.515
+    },
+    {
+        "Tahun":2014,
+        "Kecamatan":"Ambulu",
+        "Luas Panen Cabe Rawit":62.0,
+        "Produktivitas Cabe Rawit":86.81,
+        "Produksi Cabe Rawit":5382.0,
+        "Curah Hujan":153.27
+    },
+    {
+        "Tahun":2014,
+        "Kecamatan":"Tempurejo",
+        "Luas Panen Cabe Rawit":48.0,
+        "Produktivitas Cabe Rawit":33.96,
+        "Produksi Cabe Rawit":1630.0,
+        "Curah Hujan":237.21
+    },
+    {
+        "Tahun":2014,
+        "Kecamatan":"Silo",
+        "Luas Panen Cabe Rawit":31.0,
+        "Produktivitas Cabe Rawit":89.9,
+        "Produksi Cabe Rawit":2787.0,
+        "Curah Hujan":162.33
+    },
+    {
+        "Tahun":2014,
+        "Kecamatan":"Mayang",
+        "Luas Panen Cabe Rawit":110.0,
+        "Produktivitas Cabe Rawit":38.53,
+        "Produksi Cabe Rawit":4238.0,
+        "Curah Hujan":217.33
+    },
+    {
+        "Tahun":2014,
+        "Kecamatan":"Mumbulsari",
+        "Luas Panen Cabe Rawit":8.0,
+        "Produktivitas Cabe Rawit":22.0,
+        "Produksi Cabe Rawit":176.0,
+        "Curah Hujan":233.83
+    },
+    {
+        "Tahun":2014,
+        "Kecamatan":"Jenggawah",
+        "Luas Panen Cabe Rawit":16.0,
+        "Produktivitas Cabe Rawit":12.13,
+        "Produksi Cabe Rawit":194.0,
+        "Curah Hujan":227.25
+    },
+    {
+        "Tahun":2014,
+        "Kecamatan":"Ajung",
+        "Luas Panen Cabe Rawit":12.0,
+        "Produktivitas Cabe Rawit":89.92,
+        "Produksi Cabe Rawit":1079.0,
+        "Curah Hujan":207.0
+    },
+    {
+        "Tahun":2014,
+        "Kecamatan":"Rambipuji",
+        "Luas Panen Cabe Rawit":25.0,
+        "Produktivitas Cabe Rawit":457.0,
+        "Produksi Cabe Rawit":11425.0,
+        "Curah Hujan":199.52
+    },
+    {
+        "Tahun":2014,
+        "Kecamatan":"Balung",
+        "Luas Panen Cabe Rawit":42.0,
+        "Produktivitas Cabe Rawit":169.05,
+        "Produksi Cabe Rawit":7100.0,
+        "Curah Hujan":144.97
+    },
+    {
+        "Tahun":2014,
+        "Kecamatan":"Umbulsari",
+        "Luas Panen Cabe Rawit":5.0,
+        "Produktivitas Cabe Rawit":120.6,
+        "Produksi Cabe Rawit":603.0,
+        "Curah Hujan":109.75
+    },
+    {
+        "Tahun":2014,
+        "Kecamatan":"Semboro",
+        "Luas Panen Cabe Rawit":4.0,
+        "Produktivitas Cabe Rawit":31.83,
+        "Produksi Cabe Rawit":191.0,
+        "Curah Hujan":196.5266667
+    },
+    {
+        "Tahun":2014,
+        "Kecamatan":"Jombang",
+        "Luas Panen Cabe Rawit":4.0,
+        "Produktivitas Cabe Rawit":100.5,
+        "Produksi Cabe Rawit":402.0,
+        "Curah Hujan":162.0533333
+    },
+    {
+        "Tahun":2014,
+        "Kecamatan":"Sumberbaru",
+        "Luas Panen Cabe Rawit":4.0,
+        "Produktivitas Cabe Rawit":178.5,
+        "Produksi Cabe Rawit":714.0,
+        "Curah Hujan":238.58
+    },
+    {
+        "Tahun":2014,
+        "Kecamatan":"Tanggul",
+        "Luas Panen Cabe Rawit":11.0,
+        "Produktivitas Cabe Rawit":105.0,
+        "Produksi Cabe Rawit":1155.0,
+        "Curah Hujan":205.165
+    },
+    {
+        "Tahun":2014,
+        "Kecamatan":"Bangsalsari",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":231.334
+    },
+    {
+        "Tahun":2014,
+        "Kecamatan":"Panti",
+        "Luas Panen Cabe Rawit":6.0,
+        "Produktivitas Cabe Rawit":23.5,
+        "Produksi Cabe Rawit":141.0,
+        "Curah Hujan":273.8866667
+    },
+    {
+        "Tahun":2014,
+        "Kecamatan":"Sukorambi",
+        "Luas Panen Cabe Rawit":2.0,
+        "Produktivitas Cabe Rawit":152.5,
+        "Produksi Cabe Rawit":305.0,
+        "Curah Hujan":278.25
+    },
+    {
+        "Tahun":2014,
+        "Kecamatan":"Arjasa",
+        "Luas Panen Cabe Rawit":89.0,
+        "Produktivitas Cabe Rawit":138.81,
+        "Produksi Cabe Rawit":12354.0,
+        "Curah Hujan":229.46
+    },
+    {
+        "Tahun":2014,
+        "Kecamatan":"Pakusari",
+        "Luas Panen Cabe Rawit":34.0,
+        "Produktivitas Cabe Rawit":56.94,
+        "Produksi Cabe Rawit":1936.0,
+        "Curah Hujan":234.045
+    },
+    {
+        "Tahun":2014,
+        "Kecamatan":"Kalisat",
+        "Luas Panen Cabe Rawit":1237.0,
+        "Produktivitas Cabe Rawit":52.32,
+        "Produksi Cabe Rawit":64763.0,
+        "Curah Hujan":241.665
+    },
+    {
+        "Tahun":2014,
+        "Kecamatan":"Ledokombo",
+        "Luas Panen Cabe Rawit":541.0,
+        "Produktivitas Cabe Rawit":25.44,
+        "Produksi Cabe Rawit":13763.0,
+        "Curah Hujan":252.46
+    },
+    {
+        "Tahun":2014,
+        "Kecamatan":"Sumberjambe",
+        "Luas Panen Cabe Rawit":74.0,
+        "Produktivitas Cabe Rawit":71.43,
+        "Produksi Cabe Rawit":5286.0,
+        "Curah Hujan":297.835
+    },
+    {
+        "Tahun":2014,
+        "Kecamatan":"Sukowono",
+        "Luas Panen Cabe Rawit":244.0,
+        "Produktivitas Cabe Rawit":123.06,
+        "Produksi Cabe Rawit":30026.0,
+        "Curah Hujan":196.22333
+    },
+    {
+        "Tahun":2014,
+        "Kecamatan":"Jelbuk",
+        "Luas Panen Cabe Rawit":312.0,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":186.5
+    },
+    {
+        "Tahun":2014,
+        "Kecamatan":"Kaliwates",
+        "Luas Panen Cabe Rawit":6.0,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":246.58
+    },
+    {
+        "Tahun":2014,
+        "Kecamatan":"Sumbersari",
+        "Luas Panen Cabe Rawit":10.0,
+        "Produktivitas Cabe Rawit":157.0,
+        "Produksi Cabe Rawit":1570.0,
+        "Curah Hujan":208.29
+    },
+    {
+        "Tahun":2014,
+        "Kecamatan":"Patrang",
+        "Luas Panen Cabe Rawit":5.0,
+        "Produktivitas Cabe Rawit":28.0,
+        "Produksi Cabe Rawit":141.0,
+        "Curah Hujan":182.71
+    },
+    {
+        "Tahun":2015,
+        "Kecamatan":"Kencong",
+        "Luas Panen Cabe Rawit":29.0,
+        "Produktivitas Cabe Rawit":56.24,
+        "Produksi Cabe Rawit":1631.0,
+        "Curah Hujan":183.1666667
+    },
+    {
+        "Tahun":2015,
+        "Kecamatan":"Gumukmas",
+        "Luas Panen Cabe Rawit":595.0,
+        "Produktivitas Cabe Rawit":110.22,
+        "Produksi Cabe Rawit":65580.0,
+        "Curah Hujan":157.016
+    },
+    {
+        "Tahun":2015,
+        "Kecamatan":"Puger",
+        "Luas Panen Cabe Rawit":15.0,
+        "Produktivitas Cabe Rawit":107.0,
+        "Produksi Cabe Rawit":1605.0,
+        "Curah Hujan":127.5566667
+    },
+    {
+        "Tahun":2015,
+        "Kecamatan":"Wuluhan",
+        "Luas Panen Cabe Rawit":380.0,
+        "Produktivitas Cabe Rawit":99.95,
+        "Produksi Cabe Rawit":37980.0,
+        "Curah Hujan":140.515
+    },
+    {
+        "Tahun":2015,
+        "Kecamatan":"Ambulu",
+        "Luas Panen Cabe Rawit":80.0,
+        "Produktivitas Cabe Rawit":79.18,
+        "Produksi Cabe Rawit":6334.0,
+        "Curah Hujan":153.27
+    },
+    {
+        "Tahun":2015,
+        "Kecamatan":"Tempurejo",
+        "Luas Panen Cabe Rawit":32.0,
+        "Produktivitas Cabe Rawit":102.28,
+        "Produksi Cabe Rawit":3273.0,
+        "Curah Hujan":237.21
+    },
+    {
+        "Tahun":2015,
+        "Kecamatan":"Silo",
+        "Luas Panen Cabe Rawit":53.0,
+        "Produktivitas Cabe Rawit":106.34,
+        "Produksi Cabe Rawit":5636.0,
+        "Curah Hujan":162.33
+    },
+    {
+        "Tahun":2015,
+        "Kecamatan":"Mayang",
+        "Luas Panen Cabe Rawit":79.0,
+        "Produktivitas Cabe Rawit":51.1,
+        "Produksi Cabe Rawit":4037.0,
+        "Curah Hujan":217.33
+    },
+    {
+        "Tahun":2015,
+        "Kecamatan":"Mumbulsari",
+        "Luas Panen Cabe Rawit":6.0,
+        "Produktivitas Cabe Rawit":59.5,
+        "Produksi Cabe Rawit":357.0,
+        "Curah Hujan":233.83
+    },
+    {
+        "Tahun":2015,
+        "Kecamatan":"Jenggawah",
+        "Luas Panen Cabe Rawit":9.0,
+        "Produktivitas Cabe Rawit":71.67,
+        "Produksi Cabe Rawit":645.0,
+        "Curah Hujan":227.25
+    },
+    {
+        "Tahun":2015,
+        "Kecamatan":"Ajung",
+        "Luas Panen Cabe Rawit":15.0,
+        "Produktivitas Cabe Rawit":79.93,
+        "Produksi Cabe Rawit":1199.0,
+        "Curah Hujan":207.0
+    },
+    {
+        "Tahun":2015,
+        "Kecamatan":"Rambipuji",
+        "Luas Panen Cabe Rawit":112.0,
+        "Produktivitas Cabe Rawit":107.5,
+        "Produksi Cabe Rawit":12040.0,
+        "Curah Hujan":199.52
+    },
+    {
+        "Tahun":2015,
+        "Kecamatan":"Balung",
+        "Luas Panen Cabe Rawit":13.0,
+        "Produktivitas Cabe Rawit":90.77,
+        "Produksi Cabe Rawit":1180.0,
+        "Curah Hujan":144.97
+    },
+    {
+        "Tahun":2015,
+        "Kecamatan":"Umbulsari",
+        "Luas Panen Cabe Rawit":5.0,
+        "Produktivitas Cabe Rawit":80.0,
+        "Produksi Cabe Rawit":400.0,
+        "Curah Hujan":109.75
+    },
+    {
+        "Tahun":2015,
+        "Kecamatan":"Semboro",
+        "Luas Panen Cabe Rawit":2.0,
+        "Produktivitas Cabe Rawit":99.0,
+        "Produksi Cabe Rawit":198.0,
+        "Curah Hujan":196.5266667
+    },
+    {
+        "Tahun":2015,
+        "Kecamatan":"Jombang",
+        "Luas Panen Cabe Rawit":11.0,
+        "Produktivitas Cabe Rawit":69.09,
+        "Produksi Cabe Rawit":760.0,
+        "Curah Hujan":162.0533333
+    },
+    {
+        "Tahun":2015,
+        "Kecamatan":"Sumberbaru",
+        "Luas Panen Cabe Rawit":14.0,
+        "Produktivitas Cabe Rawit":56.5,
+        "Produksi Cabe Rawit":791.0,
+        "Curah Hujan":238.58
+    },
+    {
+        "Tahun":2015,
+        "Kecamatan":"Tanggul",
+        "Luas Panen Cabe Rawit":7.0,
+        "Produktivitas Cabe Rawit":91.14,
+        "Produksi Cabe Rawit":638.0,
+        "Curah Hujan":205.165
+    },
+    {
+        "Tahun":2015,
+        "Kecamatan":"Bangsalsari",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":231.334
+    },
+    {
+        "Tahun":2015,
+        "Kecamatan":"Panti",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":286.0,
+        "Curah Hujan":273.8866667
+    },
+    {
+        "Tahun":2015,
+        "Kecamatan":"Sukorambi",
+        "Luas Panen Cabe Rawit":2.0,
+        "Produktivitas Cabe Rawit":105.0,
+        "Produksi Cabe Rawit":210.0,
+        "Curah Hujan":278.25
+    },
+    {
+        "Tahun":2015,
+        "Kecamatan":"Arjasa",
+        "Luas Panen Cabe Rawit":46.0,
+        "Produktivitas Cabe Rawit":108.8,
+        "Produksi Cabe Rawit":5005.0,
+        "Curah Hujan":229.46
+    },
+    {
+        "Tahun":2015,
+        "Kecamatan":"Pakusari",
+        "Luas Panen Cabe Rawit":13.0,
+        "Produktivitas Cabe Rawit":97.15,
+        "Produksi Cabe Rawit":1263.0,
+        "Curah Hujan":234.045
+    },
+    {
+        "Tahun":2015,
+        "Kecamatan":"Kalisat",
+        "Luas Panen Cabe Rawit":692.0,
+        "Produktivitas Cabe Rawit":77.2,
+        "Produksi Cabe Rawit":53420.0,
+        "Curah Hujan":241.665
+    },
+    {
+        "Tahun":2015,
+        "Kecamatan":"Ledokombo",
+        "Luas Panen Cabe Rawit":264.0,
+        "Produktivitas Cabe Rawit":52.22,
+        "Produksi Cabe Rawit":13785.0,
+        "Curah Hujan":252.46
+    },
+    {
+        "Tahun":2015,
+        "Kecamatan":"Sumberjambe",
+        "Luas Panen Cabe Rawit":43.0,
+        "Produktivitas Cabe Rawit":78.0,
+        "Produksi Cabe Rawit":3354.0,
+        "Curah Hujan":236.868
+    },
+    {
+        "Tahun":2015,
+        "Kecamatan":"Sukowono",
+        "Luas Panen Cabe Rawit":83.0,
+        "Produktivitas Cabe Rawit":63.18,
+        "Produksi Cabe Rawit":5497.0,
+        "Curah Hujan":158.0
+    },
+    {
+        "Tahun":2015,
+        "Kecamatan":"Jelbuk",
+        "Luas Panen Cabe Rawit":296.0,
+        "Produktivitas Cabe Rawit":46.11,
+        "Produksi Cabe Rawit":13650.0,
+        "Curah Hujan":186.5
+    },
+    {
+        "Tahun":2015,
+        "Kecamatan":"Kaliwates",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":246.58
+    },
+    {
+        "Tahun":2015,
+        "Kecamatan":"Sumbersari",
+        "Luas Panen Cabe Rawit":3.0,
+        "Produktivitas Cabe Rawit":91.67,
+        "Produksi Cabe Rawit":275.0,
+        "Curah Hujan":208.29
+    },
+    {
+        "Tahun":2015,
+        "Kecamatan":"Patrang",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":98.0,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":182.71
+    },
+    {
+        "Tahun":2016,
+        "Kecamatan":"Kencong",
+        "Luas Panen Cabe Rawit":7.0,
+        "Produktivitas Cabe Rawit":90.29,
+        "Produksi Cabe Rawit":632.0,
+        "Curah Hujan":242.4433333
+    },
+    {
+        "Tahun":2016,
+        "Kecamatan":"Gumukmas",
+        "Luas Panen Cabe Rawit":187.0,
+        "Produktivitas Cabe Rawit":72.24,
+        "Produksi Cabe Rawit":13509.0,
+        "Curah Hujan":202.884
+    },
+    {
+        "Tahun":2016,
+        "Kecamatan":"Puger",
+        "Luas Panen Cabe Rawit":101.0,
+        "Produktivitas Cabe Rawit":98.04,
+        "Produksi Cabe Rawit":9902.0,
+        "Curah Hujan":176.2525
+    },
+    {
+        "Tahun":2016,
+        "Kecamatan":"Wuluhan",
+        "Luas Panen Cabe Rawit":265.0,
+        "Produktivitas Cabe Rawit":84.22,
+        "Produksi Cabe Rawit":22318.0,
+        "Curah Hujan":177.65
+    },
+    {
+        "Tahun":2016,
+        "Kecamatan":"Ambulu",
+        "Luas Panen Cabe Rawit":84.0,
+        "Produktivitas Cabe Rawit":80.0,
+        "Produksi Cabe Rawit":6722.0,
+        "Curah Hujan":174.29
+    },
+    {
+        "Tahun":2016,
+        "Kecamatan":"Tempurejo",
+        "Luas Panen Cabe Rawit":20.0,
+        "Produktivitas Cabe Rawit":82.25,
+        "Produksi Cabe Rawit":1645.0,
+        "Curah Hujan":214.92
+    },
+    {
+        "Tahun":2016,
+        "Kecamatan":"Silo",
+        "Luas Panen Cabe Rawit":40.0,
+        "Produktivitas Cabe Rawit":100.63,
+        "Produksi Cabe Rawit":4025.0,
+        "Curah Hujan":314.835
+    },
+    {
+        "Tahun":2016,
+        "Kecamatan":"Mayang",
+        "Luas Panen Cabe Rawit":68.0,
+        "Produktivitas Cabe Rawit":75.37,
+        "Produksi Cabe Rawit":5125.0,
+        "Curah Hujan":332.5
+    },
+    {
+        "Tahun":2016,
+        "Kecamatan":"Mumbulsari",
+        "Luas Panen Cabe Rawit":6.0,
+        "Produktivitas Cabe Rawit":74.67,
+        "Produksi Cabe Rawit":448.0,
+        "Curah Hujan":229.25
+    },
+    {
+        "Tahun":2016,
+        "Kecamatan":"Jenggawah",
+        "Luas Panen Cabe Rawit":7.0,
+        "Produktivitas Cabe Rawit":88.86,
+        "Produksi Cabe Rawit":622.0,
+        "Curah Hujan":200.73
+    },
+    {
+        "Tahun":2016,
+        "Kecamatan":"Ajung",
+        "Luas Panen Cabe Rawit":6.0,
+        "Produktivitas Cabe Rawit":98.67,
+        "Produksi Cabe Rawit":592.0,
+        "Curah Hujan":210.17
+    },
+    {
+        "Tahun":2016,
+        "Kecamatan":"Rambipuji",
+        "Luas Panen Cabe Rawit":5.0,
+        "Produktivitas Cabe Rawit":69.0,
+        "Produksi Cabe Rawit":345.0,
+        "Curah Hujan":237.3125
+    },
+    {
+        "Tahun":2016,
+        "Kecamatan":"Balung",
+        "Luas Panen Cabe Rawit":75.0,
+        "Produktivitas Cabe Rawit":98.27,
+        "Produksi Cabe Rawit":7370.0,
+        "Curah Hujan":215.0566667
+    },
+    {
+        "Tahun":2016,
+        "Kecamatan":"Umbulsari",
+        "Luas Panen Cabe Rawit":4.0,
+        "Produktivitas Cabe Rawit":102.5,
+        "Produksi Cabe Rawit":410.0,
+        "Curah Hujan":218.0
+    },
+    {
+        "Tahun":2016,
+        "Kecamatan":"Semboro",
+        "Luas Panen Cabe Rawit":4.0,
+        "Produktivitas Cabe Rawit":66.25,
+        "Produksi Cabe Rawit":265.0,
+        "Curah Hujan":186.7233333
+    },
+    {
+        "Tahun":2016,
+        "Kecamatan":"Jombang",
+        "Luas Panen Cabe Rawit":4.0,
+        "Produktivitas Cabe Rawit":100.33,
+        "Produksi Cabe Rawit":401.0,
+        "Curah Hujan":245.78
+    },
+    {
+        "Tahun":2016,
+        "Kecamatan":"Sumberbaru",
+        "Luas Panen Cabe Rawit":7.0,
+        "Produktivitas Cabe Rawit":91.0,
+        "Produksi Cabe Rawit":637.0,
+        "Curah Hujan":304.92
+    },
+    {
+        "Tahun":2016,
+        "Kecamatan":"Tanggul",
+        "Luas Panen Cabe Rawit":3.0,
+        "Produktivitas Cabe Rawit":106.0,
+        "Produksi Cabe Rawit":318.0,
+        "Curah Hujan":387.33
+    },
+    {
+        "Tahun":2016,
+        "Kecamatan":"Bangsalsari",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":319.602
+    },
+    {
+        "Tahun":2016,
+        "Kecamatan":"Panti",
+        "Luas Panen Cabe Rawit":14.0,
+        "Produktivitas Cabe Rawit":76.07,
+        "Produksi Cabe Rawit":1065.0,
+        "Curah Hujan":349.9466667
+    },
+    {
+        "Tahun":2016,
+        "Kecamatan":"Sukorambi",
+        "Luas Panen Cabe Rawit":2.0,
+        "Produktivitas Cabe Rawit":108.0,
+        "Produksi Cabe Rawit":216.0,
+        "Curah Hujan":334.42
+    },
+    {
+        "Tahun":2016,
+        "Kecamatan":"Arjasa",
+        "Luas Panen Cabe Rawit":33.0,
+        "Produktivitas Cabe Rawit":99.94,
+        "Produksi Cabe Rawit":3298.0,
+        "Curah Hujan":167.545
+    },
+    {
+        "Tahun":2016,
+        "Kecamatan":"Pakusari",
+        "Luas Panen Cabe Rawit":15.0,
+        "Produktivitas Cabe Rawit":103.04,
+        "Produksi Cabe Rawit":1545.0,
+        "Curah Hujan":246.42
+    },
+    {
+        "Tahun":2016,
+        "Kecamatan":"Kalisat",
+        "Luas Panen Cabe Rawit":433.0,
+        "Produktivitas Cabe Rawit":102.44,
+        "Produksi Cabe Rawit":44356.0,
+        "Curah Hujan":205.54
+    },
+    {
+        "Tahun":2016,
+        "Kecamatan":"Ledokombo",
+        "Luas Panen Cabe Rawit":335.0,
+        "Produktivitas Cabe Rawit":70.86,
+        "Produksi Cabe Rawit":23737.0,
+        "Curah Hujan":215.04
+    },
+    {
+        "Tahun":2016,
+        "Kecamatan":"Sumberjambe",
+        "Luas Panen Cabe Rawit":31.0,
+        "Produktivitas Cabe Rawit":74.19,
+        "Produksi Cabe Rawit":2300.0,
+        "Curah Hujan":341.915
+    },
+    {
+        "Tahun":2016,
+        "Kecamatan":"Sukowono",
+        "Luas Panen Cabe Rawit":37.0,
+        "Produktivitas Cabe Rawit":83.57,
+        "Produksi Cabe Rawit":3092.0,
+        "Curah Hujan":220.36
+    },
+    {
+        "Tahun":2016,
+        "Kecamatan":"Jelbuk",
+        "Luas Panen Cabe Rawit":215.0,
+        "Produktivitas Cabe Rawit":67.03,
+        "Produksi Cabe Rawit":14412.0,
+        "Curah Hujan":154.0
+    },
+    {
+        "Tahun":2016,
+        "Kecamatan":"Kaliwates",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":327.58
+    },
+    {
+        "Tahun":2016,
+        "Kecamatan":"Sumbersari",
+        "Luas Panen Cabe Rawit":1.0,
+        "Produktivitas Cabe Rawit":102.0,
+        "Produksi Cabe Rawit":102.0,
+        "Curah Hujan":206.045
+    },
+    {
+        "Tahun":2016,
+        "Kecamatan":"Patrang",
+        "Luas Panen Cabe Rawit":19.0,
+        "Produktivitas Cabe Rawit":90.21,
+        "Produksi Cabe Rawit":1714.0,
+        "Curah Hujan":223.585
+    },
+    {
+        "Tahun":2017,
+        "Kecamatan":"Kencong",
+        "Luas Panen Cabe Rawit":8.0,
+        "Produktivitas Cabe Rawit":68.88,
+        "Produksi Cabe Rawit":551.0,
+        "Curah Hujan":137.0
+    },
+    {
+        "Tahun":2017,
+        "Kecamatan":"Gumukmas",
+        "Luas Panen Cabe Rawit":270.0,
+        "Produktivitas Cabe Rawit":59.27,
+        "Produksi Cabe Rawit":16004.0,
+        "Curah Hujan":187.218
+    },
+    {
+        "Tahun":2017,
+        "Kecamatan":"Puger",
+        "Luas Panen Cabe Rawit":165.0,
+        "Produktivitas Cabe Rawit":54.94,
+        "Produksi Cabe Rawit":9065.0,
+        "Curah Hujan":178.75
+    },
+    {
+        "Tahun":2017,
+        "Kecamatan":"Wuluhan",
+        "Luas Panen Cabe Rawit":362.0,
+        "Produktivitas Cabe Rawit":59.97,
+        "Produksi Cabe Rawit":21710.0,
+        "Curah Hujan":174.7916667
+    },
+    {
+        "Tahun":2017,
+        "Kecamatan":"Ambulu",
+        "Luas Panen Cabe Rawit":63.0,
+        "Produktivitas Cabe Rawit":45.86,
+        "Produksi Cabe Rawit":2889.0,
+        "Curah Hujan":149.6675
+    },
+    {
+        "Tahun":2017,
+        "Kecamatan":"Tempurejo",
+        "Luas Panen Cabe Rawit":29.0,
+        "Produktivitas Cabe Rawit":69.59,
+        "Produksi Cabe Rawit":2018.0,
+        "Curah Hujan":134.875
+    },
+    {
+        "Tahun":2017,
+        "Kecamatan":"Silo",
+        "Luas Panen Cabe Rawit":110.0,
+        "Produktivitas Cabe Rawit":42.25,
+        "Produksi Cabe Rawit":4648.0,
+        "Curah Hujan":192.83
+    },
+    {
+        "Tahun":2017,
+        "Kecamatan":"Mayang",
+        "Luas Panen Cabe Rawit":65.0,
+        "Produktivitas Cabe Rawit":44.91,
+        "Produksi Cabe Rawit":2919.0,
+        "Curah Hujan":152.33
+    },
+    {
+        "Tahun":2017,
+        "Kecamatan":"Mumbulsari",
+        "Luas Panen Cabe Rawit":6.0,
+        "Produktivitas Cabe Rawit":66.81,
+        "Produksi Cabe Rawit":1069.0,
+        "Curah Hujan":82.92
+    },
+    {
+        "Tahun":2017,
+        "Kecamatan":"Jenggawah",
+        "Luas Panen Cabe Rawit":9.0,
+        "Produktivitas Cabe Rawit":41.56,
+        "Produksi Cabe Rawit":374.0,
+        "Curah Hujan":196.04
+    },
+    {
+        "Tahun":2017,
+        "Kecamatan":"Ajung",
+        "Luas Panen Cabe Rawit":16.0,
+        "Produktivitas Cabe Rawit":71.81,
+        "Produksi Cabe Rawit":1149.0,
+        "Curah Hujan":102.58
+    },
+    {
+        "Tahun":2017,
+        "Kecamatan":"Rambipuji",
+        "Luas Panen Cabe Rawit":11.0,
+        "Produktivitas Cabe Rawit":75.55,
+        "Produksi Cabe Rawit":831.0,
+        "Curah Hujan":158.6025
+    },
+    {
+        "Tahun":2017,
+        "Kecamatan":"Balung",
+        "Luas Panen Cabe Rawit":43.0,
+        "Produktivitas Cabe Rawit":59.16,
+        "Produksi Cabe Rawit":2544.0,
+        "Curah Hujan":199.72
+    },
+    {
+        "Tahun":2017,
+        "Kecamatan":"Umbulsari",
+        "Luas Panen Cabe Rawit":6.0,
+        "Produktivitas Cabe Rawit":69.5,
+        "Produksi Cabe Rawit":417.0,
+        "Curah Hujan":103.67
+    },
+    {
+        "Tahun":2017,
+        "Kecamatan":"Semboro",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":140.6933333
+    },
+    {
+        "Tahun":2017,
+        "Kecamatan":"Jombang",
+        "Luas Panen Cabe Rawit":8.0,
+        "Produktivitas Cabe Rawit":86.63,
+        "Produksi Cabe Rawit":693.0,
+        "Curah Hujan":129.0
+    },
+    {
+        "Tahun":2017,
+        "Kecamatan":"Sumberbaru",
+        "Luas Panen Cabe Rawit":17.0,
+        "Produktivitas Cabe Rawit":69.35,
+        "Produksi Cabe Rawit":1179.0,
+        "Curah Hujan":171.0
+    },
+    {
+        "Tahun":2017,
+        "Kecamatan":"Tanggul",
+        "Luas Panen Cabe Rawit":3.0,
+        "Produktivitas Cabe Rawit":60.0,
+        "Produksi Cabe Rawit":180.0,
+        "Curah Hujan":141.58
+    },
+    {
+        "Tahun":2017,
+        "Kecamatan":"Bangsalsari",
+        "Luas Panen Cabe Rawit":1.0,
+        "Produktivitas Cabe Rawit":82.0,
+        "Produksi Cabe Rawit":82.0,
+        "Curah Hujan":162.15
+    },
+    {
+        "Tahun":2017,
+        "Kecamatan":"Panti",
+        "Luas Panen Cabe Rawit":2.0,
+        "Produktivitas Cabe Rawit":61.5,
+        "Produksi Cabe Rawit":123.0,
+        "Curah Hujan":161.9466667
+    },
+    {
+        "Tahun":2017,
+        "Kecamatan":"Sukorambi",
+        "Luas Panen Cabe Rawit":5.0,
+        "Produktivitas Cabe Rawit":68.4,
+        "Produksi Cabe Rawit":342.0,
+        "Curah Hujan":216.75
+    },
+    {
+        "Tahun":2017,
+        "Kecamatan":"Arjasa",
+        "Luas Panen Cabe Rawit":94.0,
+        "Produktivitas Cabe Rawit":68.24,
+        "Produksi Cabe Rawit":6415.0,
+        "Curah Hujan":213.71
+    },
+    {
+        "Tahun":2017,
+        "Kecamatan":"Pakusari",
+        "Luas Panen Cabe Rawit":26.0,
+        "Produktivitas Cabe Rawit":59.0,
+        "Produksi Cabe Rawit":1534.0,
+        "Curah Hujan":196.46
+    },
+    {
+        "Tahun":2017,
+        "Kecamatan":"Kalisat",
+        "Luas Panen Cabe Rawit":1243.0,
+        "Produktivitas Cabe Rawit":51.43,
+        "Produksi Cabe Rawit":63928.0,
+        "Curah Hujan":189.835
+    },
+    {
+        "Tahun":2017,
+        "Kecamatan":"Ledokombo",
+        "Luas Panen Cabe Rawit":356.0,
+        "Produktivitas Cabe Rawit":50.2,
+        "Produksi Cabe Rawit":17872.0,
+        "Curah Hujan":161.5
+    },
+    {
+        "Tahun":2017,
+        "Kecamatan":"Sumberjambe",
+        "Luas Panen Cabe Rawit":48.0,
+        "Produktivitas Cabe Rawit":58.54,
+        "Produksi Cabe Rawit":2810.0,
+        "Curah Hujan":177.5625
+    },
+    {
+        "Tahun":2017,
+        "Kecamatan":"Sukowono",
+        "Luas Panen Cabe Rawit":42.0,
+        "Produktivitas Cabe Rawit":68.14,
+        "Produksi Cabe Rawit":2862.0,
+        "Curah Hujan":189.4433
+    },
+    {
+        "Tahun":2017,
+        "Kecamatan":"Jelbuk",
+        "Luas Panen Cabe Rawit":460.0,
+        "Produktivitas Cabe Rawit":50.77,
+        "Produksi Cabe Rawit":23352.0,
+        "Curah Hujan":140.67
+    },
+    {
+        "Tahun":2017,
+        "Kecamatan":"Kaliwates",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":166.92
+    },
+    {
+        "Tahun":2017,
+        "Kecamatan":"Sumbersari",
+        "Luas Panen Cabe Rawit":4.0,
+        "Produktivitas Cabe Rawit":73.0,
+        "Produksi Cabe Rawit":292.0,
+        "Curah Hujan":172.085
+    },
+    {
+        "Tahun":2017,
+        "Kecamatan":"Patrang",
+        "Luas Panen Cabe Rawit":34.0,
+        "Produktivitas Cabe Rawit":58.47,
+        "Produksi Cabe Rawit":1988.0,
+        "Curah Hujan":204.915
+    },
+    {
+        "Tahun":2018,
+        "Kecamatan":"Kencong",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":1353.0,
+        "Curah Hujan":198.6666667
+    },
+    {
+        "Tahun":2018,
+        "Kecamatan":"Gumukmas",
+        "Luas Panen Cabe Rawit":67.0,
+        "Produktivitas Cabe Rawit":91.93,
+        "Produksi Cabe Rawit":6159.0,
+        "Curah Hujan":148.8
+    },
+    {
+        "Tahun":2018,
+        "Kecamatan":"Puger",
+        "Luas Panen Cabe Rawit":89.0,
+        "Produktivitas Cabe Rawit":95.46,
+        "Produksi Cabe Rawit":8496.0,
+        "Curah Hujan":177.0
+    },
+    {
+        "Tahun":2018,
+        "Kecamatan":"Wuluhan",
+        "Luas Panen Cabe Rawit":331.0,
+        "Produktivitas Cabe Rawit":103.93,
+        "Produksi Cabe Rawit":34400.0,
+        "Curah Hujan":157.0
+    },
+    {
+        "Tahun":2018,
+        "Kecamatan":"Ambulu",
+        "Luas Panen Cabe Rawit":46.0,
+        "Produktivitas Cabe Rawit":42.28,
+        "Produksi Cabe Rawit":1945.0,
+        "Curah Hujan":179.75
+    },
+    {
+        "Tahun":2018,
+        "Kecamatan":"Tempurejo",
+        "Luas Panen Cabe Rawit":23.0,
+        "Produktivitas Cabe Rawit":175.17,
+        "Produksi Cabe Rawit":4029.0,
+        "Curah Hujan":241.5
+    },
+    {
+        "Tahun":2018,
+        "Kecamatan":"Silo",
+        "Luas Panen Cabe Rawit":71.0,
+        "Produktivitas Cabe Rawit":101.38,
+        "Produksi Cabe Rawit":7198.0,
+        "Curah Hujan":241.0
+    },
+    {
+        "Tahun":2018,
+        "Kecamatan":"Mayang",
+        "Luas Panen Cabe Rawit":53.0,
+        "Produktivitas Cabe Rawit":43.4,
+        "Produksi Cabe Rawit":2300.0,
+        "Curah Hujan":186.0
+    },
+    {
+        "Tahun":2018,
+        "Kecamatan":"Mumbulsari",
+        "Luas Panen Cabe Rawit":26.0,
+        "Produktivitas Cabe Rawit":135.42,
+        "Produksi Cabe Rawit":3521.0,
+        "Curah Hujan":188.0
+    },
+    {
+        "Tahun":2018,
+        "Kecamatan":"Jenggawah",
+        "Luas Panen Cabe Rawit":14.0,
+        "Produktivitas Cabe Rawit":47.29,
+        "Produksi Cabe Rawit":662.0,
+        "Curah Hujan":261.25
+    },
+    {
+        "Tahun":2018,
+        "Kecamatan":"Ajung",
+        "Luas Panen Cabe Rawit":9.0,
+        "Produktivitas Cabe Rawit":136.22,
+        "Produksi Cabe Rawit":1226.0,
+        "Curah Hujan":150.0
+    },
+    {
+        "Tahun":2018,
+        "Kecamatan":"Rambipuji",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":59.17,
+        "Produksi Cabe Rawit":355.0,
+        "Curah Hujan":188.25
+    },
+    {
+        "Tahun":2018,
+        "Kecamatan":"Balung",
+        "Luas Panen Cabe Rawit":24.0,
+        "Produktivitas Cabe Rawit":159.79,
+        "Produksi Cabe Rawit":3835.0,
+        "Curah Hujan":177.0
+    },
+    {
+        "Tahun":2018,
+        "Kecamatan":"Umbulsari",
+        "Luas Panen Cabe Rawit":11.0,
+        "Produktivitas Cabe Rawit":168.45,
+        "Produksi Cabe Rawit":1853.0,
+        "Curah Hujan":137.0
+    },
+    {
+        "Tahun":2018,
+        "Kecamatan":"Semboro",
+        "Luas Panen Cabe Rawit":3.0,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":225.0,
+        "Curah Hujan":193.6666667
+    },
+    {
+        "Tahun":2018,
+        "Kecamatan":"Jombang",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":1292.0,
+        "Curah Hujan":200.0
+    },
+    {
+        "Tahun":2018,
+        "Kecamatan":"Sumberbaru",
+        "Luas Panen Cabe Rawit":13.0,
+        "Produktivitas Cabe Rawit":46.85,
+        "Produksi Cabe Rawit":609.0,
+        "Curah Hujan":239.0
+    },
+    {
+        "Tahun":2018,
+        "Kecamatan":"Tanggul",
+        "Luas Panen Cabe Rawit":1.0,
+        "Produktivitas Cabe Rawit":121.0,
+        "Produksi Cabe Rawit":121.0,
+        "Curah Hujan":299.0
+    },
+    {
+        "Tahun":2018,
+        "Kecamatan":"Bangsalsari",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":231.8
+    },
+    {
+        "Tahun":2018,
+        "Kecamatan":"Panti",
+        "Luas Panen Cabe Rawit":2.0,
+        "Produktivitas Cabe Rawit":58.5,
+        "Produksi Cabe Rawit":117.0,
+        "Curah Hujan":272.6666667
+    },
+    {
+        "Tahun":2018,
+        "Kecamatan":"Sukorambi",
+        "Luas Panen Cabe Rawit":3.0,
+        "Produktivitas Cabe Rawit":274.33,
+        "Produksi Cabe Rawit":823.0,
+        "Curah Hujan":367.0
+    },
+    {
+        "Tahun":2018,
+        "Kecamatan":"Arjasa",
+        "Luas Panen Cabe Rawit":66.0,
+        "Produktivitas Cabe Rawit":81.35,
+        "Produksi Cabe Rawit":5369.0,
+        "Curah Hujan":260.0
+    },
+    {
+        "Tahun":2018,
+        "Kecamatan":"Pakusari",
+        "Luas Panen Cabe Rawit":22.0,
+        "Produktivitas Cabe Rawit":55.32,
+        "Produksi Cabe Rawit":1217.0,
+        "Curah Hujan":215.0
+    },
+    {
+        "Tahun":2018,
+        "Kecamatan":"Kalisat",
+        "Luas Panen Cabe Rawit":875.0,
+        "Produktivitas Cabe Rawit":50.82,
+        "Produksi Cabe Rawit":44466.0,
+        "Curah Hujan":192.0
+    },
+    {
+        "Tahun":2018,
+        "Kecamatan":"Ledokombo",
+        "Luas Panen Cabe Rawit":305.0,
+        "Produktivitas Cabe Rawit":36.52,
+        "Produksi Cabe Rawit":11138.0,
+        "Curah Hujan":195.5
+    },
+    {
+        "Tahun":2018,
+        "Kecamatan":"Sumberjambe",
+        "Luas Panen Cabe Rawit":47.0,
+        "Produktivitas Cabe Rawit":66.83,
+        "Produksi Cabe Rawit":3141.0,
+        "Curah Hujan":213.0
+    },
+    {
+        "Tahun":2018,
+        "Kecamatan":"Sukowono",
+        "Luas Panen Cabe Rawit":24.0,
+        "Produktivitas Cabe Rawit":94.92,
+        "Produksi Cabe Rawit":2278.0,
+        "Curah Hujan":211.0
+    },
+    {
+        "Tahun":2018,
+        "Kecamatan":"Jelbuk",
+        "Luas Panen Cabe Rawit":291.0,
+        "Produktivitas Cabe Rawit":23.56,
+        "Produksi Cabe Rawit":6855.0,
+        "Curah Hujan":238.0
+    },
+    {
+        "Tahun":2018,
+        "Kecamatan":"Kaliwates",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":308.0
+    },
+    {
+        "Tahun":2018,
+        "Kecamatan":"Sumbersari",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":212.0,
+        "Curah Hujan":260.0
+    },
+    {
+        "Tahun":2018,
+        "Kecamatan":"Patrang",
+        "Luas Panen Cabe Rawit":11.0,
+        "Produktivitas Cabe Rawit":50.0,
+        "Produksi Cabe Rawit":550.0,
+        "Curah Hujan":232.0
+    },
+    {
+        "Tahun":2019,
+        "Kecamatan":"Kencong",
+        "Luas Panen Cabe Rawit":15.0,
+        "Produktivitas Cabe Rawit":188.27,
+        "Produksi Cabe Rawit":2824.0,
+        "Curah Hujan":85.05333333
+    },
+    {
+        "Tahun":2019,
+        "Kecamatan":"Gumukmas",
+        "Luas Panen Cabe Rawit":44.0,
+        "Produktivitas Cabe Rawit":482.57,
+        "Produksi Cabe Rawit":21233.0,
+        "Curah Hujan":67.5
+    },
+    {
+        "Tahun":2019,
+        "Kecamatan":"Puger",
+        "Luas Panen Cabe Rawit":51.0,
+        "Produktivitas Cabe Rawit":115.24,
+        "Produksi Cabe Rawit":5877.0,
+        "Curah Hujan":58.36
+    },
+    {
+        "Tahun":2019,
+        "Kecamatan":"Wuluhan",
+        "Luas Panen Cabe Rawit":245.0,
+        "Produktivitas Cabe Rawit":121.88,
+        "Produksi Cabe Rawit":29861.0,
+        "Curah Hujan":62.05666667
+    },
+    {
+        "Tahun":2019,
+        "Kecamatan":"Ambulu",
+        "Luas Panen Cabe Rawit":45.0,
+        "Produktivitas Cabe Rawit":114.0,
+        "Produksi Cabe Rawit":5130.0,
+        "Curah Hujan":62.835
+    },
+    {
+        "Tahun":2019,
+        "Kecamatan":"Tempurejo",
+        "Luas Panen Cabe Rawit":20.0,
+        "Produktivitas Cabe Rawit":313.65,
+        "Produksi Cabe Rawit":6273.0,
+        "Curah Hujan":103.33
+    },
+    {
+        "Tahun":2019,
+        "Kecamatan":"Silo",
+        "Luas Panen Cabe Rawit":120.0,
+        "Produktivitas Cabe Rawit":92.88,
+        "Produksi Cabe Rawit":11146.0,
+        "Curah Hujan":120.96
+    },
+    {
+        "Tahun":2019,
+        "Kecamatan":"Mayang",
+        "Luas Panen Cabe Rawit":43.0,
+        "Produktivitas Cabe Rawit":97.49,
+        "Produksi Cabe Rawit":4192.0,
+        "Curah Hujan":116.25
+    },
+    {
+        "Tahun":2019,
+        "Kecamatan":"Mumbulsari",
+        "Luas Panen Cabe Rawit":13.0,
+        "Produktivitas Cabe Rawit":134.83,
+        "Produksi Cabe Rawit":1753.0,
+        "Curah Hujan":122.5
+    },
+    {
+        "Tahun":2019,
+        "Kecamatan":"Jenggawah",
+        "Luas Panen Cabe Rawit":16.0,
+        "Produktivitas Cabe Rawit":67.38,
+        "Produksi Cabe Rawit":1078.0,
+        "Curah Hujan":92.52
+    },
+    {
+        "Tahun":2019,
+        "Kecamatan":"Ajung",
+        "Luas Panen Cabe Rawit":16.0,
+        "Produktivitas Cabe Rawit":128.94,
+        "Produksi Cabe Rawit":2063.0,
+        "Curah Hujan":66.08
+    },
+    {
+        "Tahun":2019,
+        "Kecamatan":"Rambipuji",
+        "Luas Panen Cabe Rawit":5.0,
+        "Produktivitas Cabe Rawit":191.6,
+        "Produksi Cabe Rawit":958.0,
+        "Curah Hujan":103.7925
+    },
+    {
+        "Tahun":2019,
+        "Kecamatan":"Balung",
+        "Luas Panen Cabe Rawit":33.0,
+        "Produktivitas Cabe Rawit":130.76,
+        "Produksi Cabe Rawit":4315.0,
+        "Curah Hujan":87.08333333
+    },
+    {
+        "Tahun":2019,
+        "Kecamatan":"Umbulsari",
+        "Luas Panen Cabe Rawit":42.0,
+        "Produktivitas Cabe Rawit":131.17,
+        "Produksi Cabe Rawit":5509.0,
+        "Curah Hujan":88.08
+    },
+    {
+        "Tahun":2019,
+        "Kecamatan":"Semboro",
+        "Luas Panen Cabe Rawit":2.0,
+        "Produktivitas Cabe Rawit":95.0,
+        "Produksi Cabe Rawit":190.0,
+        "Curah Hujan":90.61
+    },
+    {
+        "Tahun":2019,
+        "Kecamatan":"Jombang",
+        "Luas Panen Cabe Rawit":16.0,
+        "Produktivitas Cabe Rawit":111.75,
+        "Produksi Cabe Rawit":1788.0,
+        "Curah Hujan":77.41666667
+    },
+    {
+        "Tahun":2019,
+        "Kecamatan":"Sumberbaru",
+        "Luas Panen Cabe Rawit":8.0,
+        "Produktivitas Cabe Rawit":130.25,
+        "Produksi Cabe Rawit":1042.0,
+        "Curah Hujan":136.415
+    },
+    {
+        "Tahun":2019,
+        "Kecamatan":"Tanggul",
+        "Luas Panen Cabe Rawit":7.0,
+        "Produktivitas Cabe Rawit":62.43,
+        "Produksi Cabe Rawit":437.0,
+        "Curah Hujan":138.375
+    },
+    {
+        "Tahun":2019,
+        "Kecamatan":"Bangsalsari",
+        "Luas Panen Cabe Rawit":2.0,
+        "Produktivitas Cabe Rawit":116.0,
+        "Produksi Cabe Rawit":232.0,
+        "Curah Hujan":114.95
+    },
+    {
+        "Tahun":2019,
+        "Kecamatan":"Panti",
+        "Luas Panen Cabe Rawit":1.0,
+        "Produktivitas Cabe Rawit":61.0,
+        "Produksi Cabe Rawit":61.0,
+        "Curah Hujan":145.8333333
+    },
+    {
+        "Tahun":2019,
+        "Kecamatan":"Sukorambi",
+        "Luas Panen Cabe Rawit":8.0,
+        "Produktivitas Cabe Rawit":126.63,
+        "Produksi Cabe Rawit":1013.0,
+        "Curah Hujan":171.92
+    },
+    {
+        "Tahun":2019,
+        "Kecamatan":"Arjasa",
+        "Luas Panen Cabe Rawit":4.0,
+        "Produktivitas Cabe Rawit":890.5,
+        "Produksi Cabe Rawit":3562.0,
+        "Curah Hujan":135.29
+    },
+    {
+        "Tahun":2019,
+        "Kecamatan":"Pakusari",
+        "Luas Panen Cabe Rawit":20.0,
+        "Produktivitas Cabe Rawit":108.5,
+        "Produksi Cabe Rawit":2170.0,
+        "Curah Hujan":124.705
+    },
+    {
+        "Tahun":2019,
+        "Kecamatan":"Kalisat",
+        "Luas Panen Cabe Rawit":675.0,
+        "Produktivitas Cabe Rawit":71.26,
+        "Produksi Cabe Rawit":48102.0,
+        "Curah Hujan":153.165
+    },
+    {
+        "Tahun":2019,
+        "Kecamatan":"Ledokombo",
+        "Luas Panen Cabe Rawit":258.0,
+        "Produktivitas Cabe Rawit":135.07,
+        "Produksi Cabe Rawit":34848.0,
+        "Curah Hujan":168.46
+    },
+    {
+        "Tahun":2019,
+        "Kecamatan":"Sumberjambe",
+        "Luas Panen Cabe Rawit":34.0,
+        "Produktivitas Cabe Rawit":66.62,
+        "Produksi Cabe Rawit":2265.0,
+        "Curah Hujan":162.532
+    },
+    {
+        "Tahun":2019,
+        "Kecamatan":"Sukowono",
+        "Luas Panen Cabe Rawit":52.0,
+        "Produktivitas Cabe Rawit":87.94,
+        "Produksi Cabe Rawit":4573.0,
+        "Curah Hujan":158.77666
+    },
+    {
+        "Tahun":2019,
+        "Kecamatan":"Jelbuk",
+        "Luas Panen Cabe Rawit":125.0,
+        "Produktivitas Cabe Rawit":75.53,
+        "Produksi Cabe Rawit":9441.0,
+        "Curah Hujan":177.33
+    },
+    {
+        "Tahun":2019,
+        "Kecamatan":"Kaliwates",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":133.5
+    },
+    {
+        "Tahun":2019,
+        "Kecamatan":"Sumbersari",
+        "Luas Panen Cabe Rawit":4.0,
+        "Produktivitas Cabe Rawit":298.25,
+        "Produksi Cabe Rawit":1193.0,
+        "Curah Hujan":107.79
+    },
+    {
+        "Tahun":2019,
+        "Kecamatan":"Patrang",
+        "Luas Panen Cabe Rawit":6.0,
+        "Produktivitas Cabe Rawit":432.33,
+        "Produksi Cabe Rawit":2594.0,
+        "Curah Hujan":98.665
+    },
+    {
+        "Tahun":2020,
+        "Kecamatan":"Kencong",
+        "Luas Panen Cabe Rawit":10.0,
+        "Produktivitas Cabe Rawit":204.3,
+        "Produksi Cabe Rawit":2043.0,
+        "Curah Hujan":125.4133333
+    },
+    {
+        "Tahun":2020,
+        "Kecamatan":"Gumukmas",
+        "Luas Panen Cabe Rawit":118.0,
+        "Produktivitas Cabe Rawit":211.1,
+        "Produksi Cabe Rawit":24910.0,
+        "Curah Hujan":106.342
+    },
+    {
+        "Tahun":2020,
+        "Kecamatan":"Puger",
+        "Luas Panen Cabe Rawit":66.0,
+        "Produktivitas Cabe Rawit":80.35,
+        "Produksi Cabe Rawit":5303.0,
+        "Curah Hujan":79.75
+    },
+    {
+        "Tahun":2020,
+        "Kecamatan":"Wuluhan",
+        "Luas Panen Cabe Rawit":105.0,
+        "Produktivitas Cabe Rawit":107.56,
+        "Produksi Cabe Rawit":11294.0,
+        "Curah Hujan":126.3466667
+    },
+    {
+        "Tahun":2020,
+        "Kecamatan":"Ambulu",
+        "Luas Panen Cabe Rawit":118.0,
+        "Produktivitas Cabe Rawit":58.44,
+        "Produksi Cabe Rawit":6896.0,
+        "Curah Hujan":121.4175
+    },
+    {
+        "Tahun":2020,
+        "Kecamatan":"Tempurejo",
+        "Luas Panen Cabe Rawit":20.0,
+        "Produktivitas Cabe Rawit":150.9,
+        "Produksi Cabe Rawit":3018.0,
+        "Curah Hujan":139.875
+    },
+    {
+        "Tahun":2020,
+        "Kecamatan":"Silo",
+        "Luas Panen Cabe Rawit":61.0,
+        "Produktivitas Cabe Rawit":98.98,
+        "Produksi Cabe Rawit":6038.0,
+        "Curah Hujan":175.46
+    },
+    {
+        "Tahun":2020,
+        "Kecamatan":"Mayang",
+        "Luas Panen Cabe Rawit":47.0,
+        "Produktivitas Cabe Rawit":90.66,
+        "Produksi Cabe Rawit":4275.0,
+        "Curah Hujan":205.75
+    },
+    {
+        "Tahun":2020,
+        "Kecamatan":"Mumbulsari",
+        "Luas Panen Cabe Rawit":20.0,
+        "Produktivitas Cabe Rawit":148.65,
+        "Produksi Cabe Rawit":2973.0,
+        "Curah Hujan":189.67
+    },
+    {
+        "Tahun":2020,
+        "Kecamatan":"Jenggawah",
+        "Luas Panen Cabe Rawit":11.0,
+        "Produktivitas Cabe Rawit":110.91,
+        "Produksi Cabe Rawit":1220.0,
+        "Curah Hujan":185.535
+    },
+    {
+        "Tahun":2020,
+        "Kecamatan":"Ajung",
+        "Luas Panen Cabe Rawit":27.0,
+        "Produktivitas Cabe Rawit":83.89,
+        "Produksi Cabe Rawit":2265.0,
+        "Curah Hujan":174.83
+    },
+    {
+        "Tahun":2020,
+        "Kecamatan":"Rambipuji",
+        "Luas Panen Cabe Rawit":4.0,
+        "Produktivitas Cabe Rawit":181.25,
+        "Produksi Cabe Rawit":725.0,
+        "Curah Hujan":199.4375
+    },
+    {
+        "Tahun":2020,
+        "Kecamatan":"Balung",
+        "Luas Panen Cabe Rawit":41.0,
+        "Produktivitas Cabe Rawit":171.76,
+        "Produksi Cabe Rawit":7042.0,
+        "Curah Hujan":102.6633333
+    },
+    {
+        "Tahun":2020,
+        "Kecamatan":"Umbulsari",
+        "Luas Panen Cabe Rawit":6.0,
+        "Produktivitas Cabe Rawit":212.0,
+        "Produksi Cabe Rawit":1272.0,
+        "Curah Hujan":132.75
+    },
+    {
+        "Tahun":2020,
+        "Kecamatan":"Semboro",
+        "Luas Panen Cabe Rawit":11.0,
+        "Produktivitas Cabe Rawit":129.09,
+        "Produksi Cabe Rawit":1420.0,
+        "Curah Hujan":145.17
+    },
+    {
+        "Tahun":2020,
+        "Kecamatan":"Jombang",
+        "Luas Panen Cabe Rawit":22.0,
+        "Produktivitas Cabe Rawit":127.45,
+        "Produksi Cabe Rawit":2804.0,
+        "Curah Hujan":129.3633333
+    },
+    {
+        "Tahun":2020,
+        "Kecamatan":"Sumberbaru",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":275.42
+    },
+    {
+        "Tahun":2020,
+        "Kecamatan":"Tanggul",
+        "Luas Panen Cabe Rawit":1.0,
+        "Produktivitas Cabe Rawit":25.0,
+        "Produksi Cabe Rawit":25.0,
+        "Curah Hujan":229.705
+    },
+    {
+        "Tahun":2020,
+        "Kecamatan":"Bangsalsari",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":223.95
+    },
+    {
+        "Tahun":2020,
+        "Kecamatan":"Panti",
+        "Luas Panen Cabe Rawit":3.0,
+        "Produktivitas Cabe Rawit":45.33,
+        "Produksi Cabe Rawit":136.0,
+        "Curah Hujan":238.0266667
+    },
+    {
+        "Tahun":2020,
+        "Kecamatan":"Sukorambi",
+        "Luas Panen Cabe Rawit":4.0,
+        "Produktivitas Cabe Rawit":39.0,
+        "Produksi Cabe Rawit":156.0,
+        "Curah Hujan":231.08
+    },
+    {
+        "Tahun":2020,
+        "Kecamatan":"Arjasa",
+        "Luas Panen Cabe Rawit":28.0,
+        "Produktivitas Cabe Rawit":86.39,
+        "Produksi Cabe Rawit":2419.0,
+        "Curah Hujan":185.42
+    },
+    {
+        "Tahun":2020,
+        "Kecamatan":"Pakusari",
+        "Luas Panen Cabe Rawit":15.0,
+        "Produktivitas Cabe Rawit":125.93,
+        "Produksi Cabe Rawit":1889.0,
+        "Curah Hujan":215.04
+    },
+    {
+        "Tahun":2020,
+        "Kecamatan":"Kalisat",
+        "Luas Panen Cabe Rawit":719.0,
+        "Produktivitas Cabe Rawit":75.53,
+        "Produksi Cabe Rawit":54304.0,
+        "Curah Hujan":192.29
+    },
+    {
+        "Tahun":2020,
+        "Kecamatan":"Ledokombo",
+        "Luas Panen Cabe Rawit":23.0,
+        "Produktivitas Cabe Rawit":94.83,
+        "Produksi Cabe Rawit":2181.0,
+        "Curah Hujan":186.79
+    },
+    {
+        "Tahun":2020,
+        "Kecamatan":"Sumberjambe",
+        "Luas Panen Cabe Rawit":40.0,
+        "Produktivitas Cabe Rawit":64.3,
+        "Produksi Cabe Rawit":2572.0,
+        "Curah Hujan":219.54
+    },
+    {
+        "Tahun":2020,
+        "Kecamatan":"Sukowono",
+        "Luas Panen Cabe Rawit":27.0,
+        "Produktivitas Cabe Rawit":68.11,
+        "Produksi Cabe Rawit":1839.0,
+        "Curah Hujan":196.69
+    },
+    {
+        "Tahun":2020,
+        "Kecamatan":"Jelbuk",
+        "Luas Panen Cabe Rawit":318.0,
+        "Produktivitas Cabe Rawit":124.84,
+        "Produksi Cabe Rawit":39699.0,
+        "Curah Hujan":164.08
+    },
+    {
+        "Tahun":2020,
+        "Kecamatan":"Kaliwates",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":238.33
+    },
+    {
+        "Tahun":2020,
+        "Kecamatan":"Sumbersari",
+        "Luas Panen Cabe Rawit":2.0,
+        "Produktivitas Cabe Rawit":235.0,
+        "Produksi Cabe Rawit":470.0,
+        "Curah Hujan":193.585
+    },
+    {
+        "Tahun":2020,
+        "Kecamatan":"Patrang",
+        "Luas Panen Cabe Rawit":7.0,
+        "Produktivitas Cabe Rawit":289.57,
+        "Produksi Cabe Rawit":2027.0,
+        "Curah Hujan":217.0
+    },
+    {
+        "Tahun":2021,
+        "Kecamatan":"Kencong",
+        "Luas Panen Cabe Rawit":13.0,
+        "Produktivitas Cabe Rawit":95.54,
+        "Produksi Cabe Rawit":1242.0,
+        "Curah Hujan":175.0
+    },
+    {
+        "Tahun":2021,
+        "Kecamatan":"Gumukmas",
+        "Luas Panen Cabe Rawit":130.0,
+        "Produktivitas Cabe Rawit":75.32,
+        "Produksi Cabe Rawit":9791.0,
+        "Curah Hujan":175.0
+    },
+    {
+        "Tahun":2021,
+        "Kecamatan":"Puger",
+        "Luas Panen Cabe Rawit":163.0,
+        "Produktivitas Cabe Rawit":197.69,
+        "Produksi Cabe Rawit":32224.0,
+        "Curah Hujan":175.0
+    },
+    {
+        "Tahun":2021,
+        "Kecamatan":"Wuluhan",
+        "Luas Panen Cabe Rawit":203.0,
+        "Produktivitas Cabe Rawit":112.7,
+        "Produksi Cabe Rawit":22878.0,
+        "Curah Hujan":175.0
+    },
+    {
+        "Tahun":2021,
+        "Kecamatan":"Ambulu",
+        "Luas Panen Cabe Rawit":87.0,
+        "Produktivitas Cabe Rawit":64.0,
+        "Produksi Cabe Rawit":5568.0,
+        "Curah Hujan":175.0
+    },
+    {
+        "Tahun":2021,
+        "Kecamatan":"Tempurejo",
+        "Luas Panen Cabe Rawit":13.0,
+        "Produktivitas Cabe Rawit":269.92,
+        "Produksi Cabe Rawit":3509.0,
+        "Curah Hujan":175.0
+    },
+    {
+        "Tahun":2021,
+        "Kecamatan":"Silo",
+        "Luas Panen Cabe Rawit":57.0,
+        "Produktivitas Cabe Rawit":87.3,
+        "Produksi Cabe Rawit":4976.0,
+        "Curah Hujan":250.0
+    },
+    {
+        "Tahun":2021,
+        "Kecamatan":"Mayang",
+        "Luas Panen Cabe Rawit":45.0,
+        "Produktivitas Cabe Rawit":74.73,
+        "Produksi Cabe Rawit":3363.0,
+        "Curah Hujan":250.0
+    },
+    {
+        "Tahun":2021,
+        "Kecamatan":"Mumbulsari",
+        "Luas Panen Cabe Rawit":32.0,
+        "Produktivitas Cabe Rawit":121.5,
+        "Produksi Cabe Rawit":3888.0,
+        "Curah Hujan":175.0
+    },
+    {
+        "Tahun":2021,
+        "Kecamatan":"Jenggawah",
+        "Luas Panen Cabe Rawit":19.0,
+        "Produktivitas Cabe Rawit":112.63,
+        "Produksi Cabe Rawit":2140.0,
+        "Curah Hujan":175.0
+    },
+    {
+        "Tahun":2021,
+        "Kecamatan":"Ajung",
+        "Luas Panen Cabe Rawit":15.0,
+        "Produktivitas Cabe Rawit":79.33,
+        "Produksi Cabe Rawit":1190.0,
+        "Curah Hujan":175.0
+    },
+    {
+        "Tahun":2021,
+        "Kecamatan":"Rambipuji",
+        "Luas Panen Cabe Rawit":2.0,
+        "Produktivitas Cabe Rawit":29.0,
+        "Produksi Cabe Rawit":58.0,
+        "Curah Hujan":175.0
+    },
+    {
+        "Tahun":2021,
+        "Kecamatan":"Balung",
+        "Luas Panen Cabe Rawit":20.0,
+        "Produktivitas Cabe Rawit":79.1,
+        "Produksi Cabe Rawit":1582.0,
+        "Curah Hujan":175.0
+    },
+    {
+        "Tahun":2021,
+        "Kecamatan":"Umbulsari",
+        "Luas Panen Cabe Rawit":3.0,
+        "Produktivitas Cabe Rawit":232.67,
+        "Produksi Cabe Rawit":698.0,
+        "Curah Hujan":175.0
+    },
+    {
+        "Tahun":2021,
+        "Kecamatan":"Semboro",
+        "Luas Panen Cabe Rawit":25.0,
+        "Produktivitas Cabe Rawit":114.8,
+        "Produksi Cabe Rawit":2870.0,
+        "Curah Hujan":175.0
+    },
+    {
+        "Tahun":2021,
+        "Kecamatan":"Jombang",
+        "Luas Panen Cabe Rawit":8.0,
+        "Produktivitas Cabe Rawit":197.63,
+        "Produksi Cabe Rawit":1581.0,
+        "Curah Hujan":175.0
+    },
+    {
+        "Tahun":2021,
+        "Kecamatan":"Sumberbaru",
+        "Luas Panen Cabe Rawit":4.0,
+        "Produktivitas Cabe Rawit":296.8,
+        "Produksi Cabe Rawit":1187.0,
+        "Curah Hujan":175.0
+    },
+    {
+        "Tahun":2021,
+        "Kecamatan":"Tanggul",
+        "Luas Panen Cabe Rawit":2.0,
+        "Produktivitas Cabe Rawit":45.52,
+        "Produksi Cabe Rawit":91.0,
+        "Curah Hujan":250.0
+    },
+    {
+        "Tahun":2021,
+        "Kecamatan":"Bangsalsari",
+        "Luas Panen Cabe Rawit":4.0,
+        "Produktivitas Cabe Rawit":49.0,
+        "Produksi Cabe Rawit":196.0,
+        "Curah Hujan":175.0
+    },
+    {
+        "Tahun":2021,
+        "Kecamatan":"Panti",
+        "Luas Panen Cabe Rawit":2.0,
+        "Produktivitas Cabe Rawit":91.8,
+        "Produksi Cabe Rawit":184.0,
+        "Curah Hujan":175.0
+    },
+    {
+        "Tahun":2021,
+        "Kecamatan":"Sukorambi",
+        "Luas Panen Cabe Rawit":2.0,
+        "Produktivitas Cabe Rawit":141.5,
+        "Produksi Cabe Rawit":283.0,
+        "Curah Hujan":250.0
+    },
+    {
+        "Tahun":2021,
+        "Kecamatan":"Arjasa",
+        "Luas Panen Cabe Rawit":77.0,
+        "Produktivitas Cabe Rawit":167.95,
+        "Produksi Cabe Rawit":12932.0,
+        "Curah Hujan":175.0
+    },
+    {
+        "Tahun":2021,
+        "Kecamatan":"Pakusari",
+        "Luas Panen Cabe Rawit":59.0,
+        "Produktivitas Cabe Rawit":72.94,
+        "Produksi Cabe Rawit":4304.0,
+        "Curah Hujan":175.0
+    },
+    {
+        "Tahun":2021,
+        "Kecamatan":"Kalisat",
+        "Luas Panen Cabe Rawit":521.0,
+        "Produktivitas Cabe Rawit":81.24,
+        "Produksi Cabe Rawit":42328.0,
+        "Curah Hujan":250.0
+    },
+    {
+        "Tahun":2021,
+        "Kecamatan":"Ledokombo",
+        "Luas Panen Cabe Rawit":19.0,
+        "Produktivitas Cabe Rawit":196.68,
+        "Produksi Cabe Rawit":3737.0,
+        "Curah Hujan":250.0
+    },
+    {
+        "Tahun":2021,
+        "Kecamatan":"Sumberjambe",
+        "Luas Panen Cabe Rawit":42.0,
+        "Produktivitas Cabe Rawit":52.62,
+        "Produksi Cabe Rawit":2210.0,
+        "Curah Hujan":250.0
+    },
+    {
+        "Tahun":2021,
+        "Kecamatan":"Sukowono",
+        "Luas Panen Cabe Rawit":226.0,
+        "Produktivitas Cabe Rawit":26.97,
+        "Produksi Cabe Rawit":6095.0,
+        "Curah Hujan":250.0
+    },
+    {
+        "Tahun":2021,
+        "Kecamatan":"Jelbuk",
+        "Luas Panen Cabe Rawit":298.0,
+        "Produktivitas Cabe Rawit":44.21,
+        "Produksi Cabe Rawit":13174.0,
+        "Curah Hujan":175.0
+    },
+    {
+        "Tahun":2021,
+        "Kecamatan":"Kaliwates",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":250.0
+    },
+    {
+        "Tahun":2021,
+        "Kecamatan":"Sumbersari",
+        "Luas Panen Cabe Rawit":3.0,
+        "Produktivitas Cabe Rawit":86.0,
+        "Produksi Cabe Rawit":258.0,
+        "Curah Hujan":175.0
+    },
+    {
+        "Tahun":2021,
+        "Kecamatan":"Patrang",
+        "Luas Panen Cabe Rawit":13.0,
+        "Produktivitas Cabe Rawit":192.38,
+        "Produksi Cabe Rawit":2501.0,
+        "Curah Hujan":250.0
+    },
+    {
+        "Tahun":2022,
+        "Kecamatan":"Kencong",
+        "Luas Panen Cabe Rawit":4.0,
+        "Produktivitas Cabe Rawit":114.0,
+        "Produksi Cabe Rawit":456.0,
+        "Curah Hujan":184.72
+    },
+    {
+        "Tahun":2022,
+        "Kecamatan":"Gumukmas",
+        "Luas Panen Cabe Rawit":87.0,
+        "Produktivitas Cabe Rawit":99.51,
+        "Produksi Cabe Rawit":8657.0,
+        "Curah Hujan":168.97
+    },
+    {
+        "Tahun":2022,
+        "Kecamatan":"Puger",
+        "Luas Panen Cabe Rawit":68.0,
+        "Produktivitas Cabe Rawit":104.66,
+        "Produksi Cabe Rawit":7117.0,
+        "Curah Hujan":150.08
+    },
+    {
+        "Tahun":2022,
+        "Kecamatan":"Wuluhan",
+        "Luas Panen Cabe Rawit":119.0,
+        "Produktivitas Cabe Rawit":100.24,
+        "Produksi Cabe Rawit":11929.0,
+        "Curah Hujan":159.16
+    },
+    {
+        "Tahun":2022,
+        "Kecamatan":"Ambulu",
+        "Luas Panen Cabe Rawit":73.0,
+        "Produktivitas Cabe Rawit":111.25,
+        "Produksi Cabe Rawit":8121.0,
+        "Curah Hujan":152.04
+    },
+    {
+        "Tahun":2022,
+        "Kecamatan":"Tempurejo",
+        "Luas Panen Cabe Rawit":28.0,
+        "Produktivitas Cabe Rawit":114.39,
+        "Produksi Cabe Rawit":3203.0,
+        "Curah Hujan":230.17
+    },
+    {
+        "Tahun":2022,
+        "Kecamatan":"Silo",
+        "Luas Panen Cabe Rawit":85.0,
+        "Produktivitas Cabe Rawit":114.15,
+        "Produksi Cabe Rawit":9703.0,
+        "Curah Hujan":254.88
+    },
+    {
+        "Tahun":2022,
+        "Kecamatan":"Mayang",
+        "Luas Panen Cabe Rawit":31.0,
+        "Produktivitas Cabe Rawit":112.84,
+        "Produksi Cabe Rawit":3498.0,
+        "Curah Hujan":242.85
+    },
+    {
+        "Tahun":2022,
+        "Kecamatan":"Mumbulsari",
+        "Luas Panen Cabe Rawit":23.0,
+        "Produktivitas Cabe Rawit":118.0,
+        "Produksi Cabe Rawit":2714.0,
+        "Curah Hujan":247.3333333333
+    },
+    {
+        "Tahun":2022,
+        "Kecamatan":"Jenggawah",
+        "Luas Panen Cabe Rawit":22.0,
+        "Produktivitas Cabe Rawit":111.32,
+        "Produksi Cabe Rawit":2449.0,
+        "Curah Hujan":209.79
+    },
+    {
+        "Tahun":2022,
+        "Kecamatan":"Ajung",
+        "Luas Panen Cabe Rawit":17.0,
+        "Produktivitas Cabe Rawit":124.71,
+        "Produksi Cabe Rawit":2120.0,
+        "Curah Hujan":247.375
+    },
+    {
+        "Tahun":2022,
+        "Kecamatan":"Rambipuji",
+        "Luas Panen Cabe Rawit":3.0,
+        "Produktivitas Cabe Rawit":131.33,
+        "Produksi Cabe Rawit":394.0,
+        "Curah Hujan":158.54
+    },
+    {
+        "Tahun":2022,
+        "Kecamatan":"Balung",
+        "Luas Panen Cabe Rawit":34.0,
+        "Produktivitas Cabe Rawit":117.44,
+        "Produksi Cabe Rawit":3993.0,
+        "Curah Hujan":179.86
+    },
+    {
+        "Tahun":2022,
+        "Kecamatan":"Umbulsari",
+        "Luas Panen Cabe Rawit":6.0,
+        "Produktivitas Cabe Rawit":121.33,
+        "Produksi Cabe Rawit":728.0,
+        "Curah Hujan":148.6083333333
+    },
+    {
+        "Tahun":2022,
+        "Kecamatan":"Semboro",
+        "Luas Panen Cabe Rawit":28.0,
+        "Produktivitas Cabe Rawit":107.43,
+        "Produksi Cabe Rawit":3008.0,
+        "Curah Hujan":286.89
+    },
+    {
+        "Tahun":2022,
+        "Kecamatan":"Jombang",
+        "Luas Panen Cabe Rawit":8.0,
+        "Produktivitas Cabe Rawit":129.19,
+        "Produksi Cabe Rawit":1034.0,
+        "Curah Hujan":184.69
+    },
+    {
+        "Tahun":2022,
+        "Kecamatan":"Sumberbaru",
+        "Luas Panen Cabe Rawit":10.0,
+        "Produktivitas Cabe Rawit":128.2,
+        "Produksi Cabe Rawit":1282.0,
+        "Curah Hujan":328.9166666667
+    },
+    {
+        "Tahun":2022,
+        "Kecamatan":"Tanggul",
+        "Luas Panen Cabe Rawit":8.0,
+        "Produktivitas Cabe Rawit":105.13,
+        "Produksi Cabe Rawit":841.0,
+        "Curah Hujan":319.26
+    },
+    {
+        "Tahun":2022,
+        "Kecamatan":"Bangsalsari",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":187.36
+    },
+    {
+        "Tahun":2022,
+        "Kecamatan":"Panti",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":291.79
+    },
+    {
+        "Tahun":2022,
+        "Kecamatan":"Sukorambi",
+        "Luas Panen Cabe Rawit":2.0,
+        "Produktivitas Cabe Rawit":101.5,
+        "Produksi Cabe Rawit":203.0,
+        "Curah Hujan":283.42
+    },
+    {
+        "Tahun":2022,
+        "Kecamatan":"Arjasa",
+        "Luas Panen Cabe Rawit":78.0,
+        "Produktivitas Cabe Rawit":115.71,
+        "Produksi Cabe Rawit":9025.0,
+        "Curah Hujan":232.54
+    },
+    {
+        "Tahun":2022,
+        "Kecamatan":"Pakusari",
+        "Luas Panen Cabe Rawit":50.0,
+        "Produktivitas Cabe Rawit":77.72,
+        "Produksi Cabe Rawit":3886.0,
+        "Curah Hujan":251.31
+    },
+    {
+        "Tahun":2022,
+        "Kecamatan":"Kalisat",
+        "Luas Panen Cabe Rawit":622.0,
+        "Produktivitas Cabe Rawit":69.67,
+        "Produksi Cabe Rawit":43336.0,
+        "Curah Hujan":239.67
+    },
+    {
+        "Tahun":2022,
+        "Kecamatan":"Ledokombo",
+        "Luas Panen Cabe Rawit":66.0,
+        "Produktivitas Cabe Rawit":93.26,
+        "Produksi Cabe Rawit":6155.0,
+        "Curah Hujan":225.75
+    },
+    {
+        "Tahun":2022,
+        "Kecamatan":"Sumberjambe",
+        "Luas Panen Cabe Rawit":44.0,
+        "Produktivitas Cabe Rawit":88.86,
+        "Produksi Cabe Rawit":3910.0,
+        "Curah Hujan":223.1
+    },
+    {
+        "Tahun":2022,
+        "Kecamatan":"Sukowono",
+        "Luas Panen Cabe Rawit":178.0,
+        "Produktivitas Cabe Rawit":94.22,
+        "Produksi Cabe Rawit":16771.0,
+        "Curah Hujan":220.63
+    },
+    {
+        "Tahun":2022,
+        "Kecamatan":"Jelbuk",
+        "Luas Panen Cabe Rawit":349.0,
+        "Produktivitas Cabe Rawit":88.06,
+        "Produksi Cabe Rawit":30732.0,
+        "Curah Hujan":247.6666666667
+    },
+    {
+        "Tahun":2022,
+        "Kecamatan":"Kaliwates",
+        "Luas Panen Cabe Rawit":null,
+        "Produktivitas Cabe Rawit":null,
+        "Produksi Cabe Rawit":null,
+        "Curah Hujan":269.0833333333
+    },
+    {
+        "Tahun":2022,
+        "Kecamatan":"Sumbersari",
+        "Luas Panen Cabe Rawit":3.0,
+        "Produktivitas Cabe Rawit":128.33,
+        "Produksi Cabe Rawit":385.0,
+        "Curah Hujan":215.56
+    },
+    {
+        "Tahun":2022,
+        "Kecamatan":"Patrang",
+        "Luas Panen Cabe Rawit":13.0,
+        "Produktivitas Cabe Rawit":126.54,
+        "Produksi Cabe Rawit":1645.0,
+        "Curah Hujan":237.42
+    },
+    {
+        "Tahun":2023,
+        "Kecamatan":"Kencong",
+        "Luas Panen Cabe Rawit":6.0,
+        "Produktivitas Cabe Rawit":72.33,
+        "Produksi Cabe Rawit":434.0,
+        "Curah Hujan":58.94
+    },
+    {
+        "Tahun":2023,
+        "Kecamatan":"Gumukmas",
+        "Luas Panen Cabe Rawit":157.0,
+        "Produktivitas Cabe Rawit":81.17,
+        "Produksi Cabe Rawit":12774.0,
+        "Curah Hujan":64.92
+    },
+    {
+        "Tahun":2023,
+        "Kecamatan":"Puger",
+        "Luas Panen Cabe Rawit":51.0,
+        "Produktivitas Cabe Rawit":130.86,
+        "Produksi Cabe Rawit":6674.0,
+        "Curah Hujan":59.42
+    },
+    {
+        "Tahun":2023,
+        "Kecamatan":"Wuluhan",
+        "Luas Panen Cabe Rawit":126.0,
+        "Produktivitas Cabe Rawit":144.83,
+        "Produksi Cabe Rawit":18249.0,
+        "Curah Hujan":79.99
+    },
+    {
+        "Tahun":2023,
+        "Kecamatan":"Ambulu",
+        "Luas Panen Cabe Rawit":38.0,
+        "Produktivitas Cabe Rawit":115.16,
+        "Produksi Cabe Rawit":4376.0,
+        "Curah Hujan":66.23
+    },
+    {
+        "Tahun":2023,
+        "Kecamatan":"Tempurejo",
+        "Luas Panen Cabe Rawit":15.0,
+        "Produktivitas Cabe Rawit":162.0,
+        "Produksi Cabe Rawit":2430.0,
+        "Curah Hujan":103.67
+    },
+    {
+        "Tahun":2023,
+        "Kecamatan":"Silo",
+        "Luas Panen Cabe Rawit":91.0,
+        "Produktivitas Cabe Rawit":100.62,
+        "Produksi Cabe Rawit":9156.0,
+        "Curah Hujan":148.38
+    },
+    {
+        "Tahun":2023,
+        "Kecamatan":"Mayang",
+        "Luas Panen Cabe Rawit":40.0,
+        "Produktivitas Cabe Rawit":110.83,
+        "Produksi Cabe Rawit":4433.0,
+        "Curah Hujan":154.0833333333
+    },
+    {
+        "Tahun":2023,
+        "Kecamatan":"Mumbulsari",
+        "Luas Panen Cabe Rawit":41.0,
+        "Produktivitas Cabe Rawit":121.2,
+        "Produksi Cabe Rawit":4969.0,
+        "Curah Hujan":136.1666666667
+    },
+    {
+        "Tahun":2023,
+        "Kecamatan":"Jenggawah",
+        "Luas Panen Cabe Rawit":15.0,
+        "Produktivitas Cabe Rawit":114.67,
+        "Produksi Cabe Rawit":1720.0,
+        "Curah Hujan":103.52
+    },
+    {
+        "Tahun":2023,
+        "Kecamatan":"Ajung",
+        "Luas Panen Cabe Rawit":33.0,
+        "Produktivitas Cabe Rawit":62.73,
+        "Produksi Cabe Rawit":2070.0,
+        "Curah Hujan":105.9166666667
+    },
+    {
+        "Tahun":2023,
+        "Kecamatan":"Rambipuji",
+        "Luas Panen Cabe Rawit":3.0,
+        "Produktivitas Cabe Rawit":83.0,
+        "Produksi Cabe Rawit":249.0,
+        "Curah Hujan":93.78
+    },
+    {
+        "Tahun":2023,
+        "Kecamatan":"Balung",
+        "Luas Panen Cabe Rawit":19.0,
+        "Produktivitas Cabe Rawit":115.05,
+        "Produksi Cabe Rawit":2186.0,
+        "Curah Hujan":69.18
+    },
+    {
+        "Tahun":2023,
+        "Kecamatan":"Umbulsari",
+        "Luas Panen Cabe Rawit":11.0,
+        "Produktivitas Cabe Rawit":117.55,
+        "Produksi Cabe Rawit":1293.0,
+        "Curah Hujan":58.1666666667
+    },
+    {
+        "Tahun":2023,
+        "Kecamatan":"Semboro",
+        "Luas Panen Cabe Rawit":16.0,
+        "Produktivitas Cabe Rawit":129.06,
+        "Produksi Cabe Rawit":2065.0,
+        "Curah Hujan":99.67
+    },
+    {
+        "Tahun":2023,
+        "Kecamatan":"Jombang",
+        "Luas Panen Cabe Rawit":6.0,
+        "Produktivitas Cabe Rawit":147.67,
+        "Produksi Cabe Rawit":886.0,
+        "Curah Hujan":68.69
+    },
+    {
+        "Tahun":2023,
+        "Kecamatan":"Sumberbaru",
+        "Luas Panen Cabe Rawit":19.0,
+        "Produktivitas Cabe Rawit":115.0,
+        "Produksi Cabe Rawit":2185.0,
+        "Curah Hujan":130.0
+    },
+    {
+        "Tahun":2023,
+        "Kecamatan":"Tanggul",
+        "Luas Panen Cabe Rawit":6.0,
+        "Produktivitas Cabe Rawit":175.17,
+        "Produksi Cabe Rawit":1051.0,
+        "Curah Hujan":138.82
+    },
+    {
+        "Tahun":2023,
+        "Kecamatan":"Bangsalsari",
+        "Luas Panen Cabe Rawit":10.0,
+        "Produktivitas Cabe Rawit":88.7,
+        "Produksi Cabe Rawit":887.0,
+        "Curah Hujan":67.45
+    },
+    {
+        "Tahun":2023,
+        "Kecamatan":"Panti",
+        "Luas Panen Cabe Rawit":1.0,
+        "Produktivitas Cabe Rawit":150.0,
+        "Produksi Cabe Rawit":150.0,
+        "Curah Hujan":172.78
+    },
+    {
+        "Tahun":2023,
+        "Kecamatan":"Sukorambi",
+        "Luas Panen Cabe Rawit":6.0,
+        "Produktivitas Cabe Rawit":134.83,
+        "Produksi Cabe Rawit":809.0,
+        "Curah Hujan":190.25
+    },
+    {
+        "Tahun":2023,
+        "Kecamatan":"Arjasa",
+        "Luas Panen Cabe Rawit":55.0,
+        "Produktivitas Cabe Rawit":157.09,
+        "Produksi Cabe Rawit":8640.0,
+        "Curah Hujan":175.25
+    },
+    {
+        "Tahun":2023,
+        "Kecamatan":"Pakusari",
+        "Luas Panen Cabe Rawit":23.0,
+        "Produktivitas Cabe Rawit":127.22,
+        "Produksi Cabe Rawit":2926.0,
+        "Curah Hujan":174.16
+    },
+    {
+        "Tahun":2023,
+        "Kecamatan":"Kalisat",
+        "Luas Panen Cabe Rawit":504.0,
+        "Produktivitas Cabe Rawit":85.3,
+        "Produksi Cabe Rawit":42990.0,
+        "Curah Hujan":146.4
+    },
+    {
+        "Tahun":2023,
+        "Kecamatan":"Ledokombo",
+        "Luas Panen Cabe Rawit":105.0,
+        "Produktivitas Cabe Rawit":93.53,
+        "Produksi Cabe Rawit":9821.0,
+        "Curah Hujan":117.98
+    },
+    {
+        "Tahun":2023,
+        "Kecamatan":"Sumberjambe",
+        "Luas Panen Cabe Rawit":37.0,
+        "Produktivitas Cabe Rawit":89.84,
+        "Produksi Cabe Rawit":3324.0,
+        "Curah Hujan":160.71
+    },
+    {
+        "Tahun":2023,
+        "Kecamatan":"Sukowono",
+        "Luas Panen Cabe Rawit":100.0,
+        "Produktivitas Cabe Rawit":71.54,
+        "Produksi Cabe Rawit":7154.0,
+        "Curah Hujan":166.97
+    },
+    {
+        "Tahun":2023,
+        "Kecamatan":"Jelbuk",
+        "Luas Panen Cabe Rawit":142.0,
+        "Produktivitas Cabe Rawit":59.96,
+        "Produksi Cabe Rawit":8515.0,
+        "Curah Hujan":195.0
+    },
+    {
+        "Tahun":2023,
+        "Kecamatan":"Kaliwates",
+        "Luas Panen Cabe Rawit":1.0,
+        "Produktivitas Cabe Rawit":156.0,
+        "Produksi Cabe Rawit":156.0,
+        "Curah Hujan":160.25
+    },
+    {
+        "Tahun":2023,
+        "Kecamatan":"Sumbersari",
+        "Luas Panen Cabe Rawit":6.0,
+        "Produktivitas Cabe Rawit":113.0,
+        "Produksi Cabe Rawit":678.0,
+        "Curah Hujan":114.29
+    },
+    {
+        "Tahun":2023,
+        "Kecamatan":"Patrang",
+        "Luas Panen Cabe Rawit":10.0,
+        "Produktivitas Cabe Rawit":110.9,
+        "Produksi Cabe Rawit":1109.0,
+        "Curah Hujan":184.0
+    }
+]

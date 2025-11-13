@@ -1,0 +1,6 @@
+[
+  { "Metrik": "RMSE", "Nilai": 2.406 },
+  { "Metrik": "MAE", "Nilai": 1.468 },
+  { "Metrik": "SMAPE", "Nilai": "22.82%" },
+  { "Metrik": "WSMAPE", "Nilai": "12.51%" }
+]

@@ -1,0 +1,8 @@
+[
+  { "Epoch": 20, "Training Loss": 0.2113, "Validation Loss": 0.2234 },
+  { "Epoch": 40, "Training Loss": 0.1397, "Validation Loss": 0.1424 },
+  { "Epoch": 60, "Training Loss": 0.1049, "Validation Loss": 0.1303 },
+  { "Epoch": 80, "Training Loss": 0.0833, "Validation Loss": 0.1434 },
+  { "Epoch": 100, "Training Loss": 0.0650, "Validation Loss": 0.1663 },
+  { "Epoch": 120, "Training Loss": 0.0532, "Validation Loss": 0.1907 }
+]
